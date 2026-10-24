@@ -1,13 +1,213 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 1" group-title="SPAIN",HBO Max 1
+
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD" group-title="DEPORTE",M+ LaLigaTVHD
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26046?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD+" group-title="DEPORTE",M+ LaLigaTVHD+
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26248?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD 235" group-title="DEPORTE",M+ LaLigaTVHD 235
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27224?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV" group-title="DEPORTE",M+ LaLigaTV
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/435?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVSD" group-title="DEPORTE",M+ LaLigaTVSD
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26247?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV FULL HD" group-title="DEPORTE",M+ LaLigaTV FULL HD
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3849?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 4K" group-title="DEPORTE",M+ LaLigaTV 4K
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26142?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2 HD" group-title="DEPORTE",M+ LaLigaTV 2 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26048?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2 FULL HD" group-title="DEPORTE",M+ LaLigaTV 2 FULL HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26045?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 3 HD" group-title="DEPORTE",M+ LaLigaTV 3 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28987?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD" group-title="DEPORTE",DAZN LALIGA HD
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27160?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD+" group-title="DEPORTE",DAZN LALIGA HD+
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27173?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD 235" group-title="DEPORTE",DAZN LALIGA HD 235
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27226?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA " group-title="DEPORTE",DAZN LALIGA 
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27174?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA SD" group-title="DEPORTE",DAZN LALIGA SD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27170?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA FULL HD" group-title="DEPORTE",DAZN LALIGA FULL HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27175?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 4K" group-title="DEPORTE",DAZN LALIGA 4K
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27168?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2 HD" group-title="DEPORTE",DAZN LALIGA 2 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27161?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2 FULL HD" group-title="DEPORTE",DAZN LALIGA 2 FULL HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27163?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP FULL HD" group-title="DEPORTE",DAZN MOTO GP FULL HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31120?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP HD" group-title="DEPORTE",DAZN MOTO GP HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31119?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP SD" group-title="DEPORTE",DAZN MOTO GP SD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30743?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN RALLY TV" group-title="DEPORTE",DAZN RALLY TV
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31112?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 HD" group-title="DEPORTE",DAZN F1 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26626?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 HD" group-title="DEPORTE",DAZN 1 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/24923?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 HD" group-title="DEPORTE",DAZN 2 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/24922?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3 HD" group-title="DEPORTE",DAZN 3 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26628?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4 HD" group-title="DEPORTE",DAZN 4 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26629?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="UEFA Champions League" group-title="DEPORTE",UEFA Champions League
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27178?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES +" group-title="DEPORTE",M+ LCAMPEONES +
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26318?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES SD" group-title="DEPORTE",M+ LCAMPEONES SD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26317?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD" group-title="DEPORTE",M+ LCAMPEONES HD
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/445?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD+" group-title="DEPORTE",M+ LCAMPEONES HD+
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26315?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 4K" group-title="DEPORTE",M+ LCAMPEONES 4K
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26140?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES FULL HD" group-title="DEPORTE",M+ LCAMPEONES FULL HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26078?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 HD" group-title="DEPORTE",M+ LCAMPEONES 2 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/439?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 FULL HD" group-title="DEPORTE",M+ LCAMPEONES 2 FULL HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26080?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 HD" group-title="DEPORTE",M+ LCAMPEONES 3 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31127?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 FULL HD" group-title="DEPORTE",M+ LCAMPEONES 3 FULL HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31126?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 4" group-title="DEPORTE",M+ LCAMPEONES 4
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31128?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 5" group-title="DEPORTE",M+ LCAMPEONES 5
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31129?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON6" group-title="DEPORTE",M+LCAMPEON6
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31154?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON7" group-title="DEPORTE",M+LCAMPEON7
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31155?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON8" group-title="DEPORTE",M+LCAMPEON8
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31156?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON9" group-title="DEPORTE",M+LCAMPEON9
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31157?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON10" group-title="DEPORTE",M+LCAMPEON10
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31158?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON11" group-title="DEPORTE",M+LCAMPEON11
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31159?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON12" group-title="DEPORTE",M+LCAMPEON12
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31160?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON13" group-title="DEPORTE",M+LCAMPEON13
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31161?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+ HD" group-title="DEPORTE",Movistar Plus+ HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26663?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+ FULL HD" group-title="DEPORTE",Movistar Plus+ FULL HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27193?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION HD" group-title="DEPORTE",LALIGA TV HYPERMOTION HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27164?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION FULL HD" group-title="DEPORTE",LALIGA TV HYPERMOTION FULL HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27166?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 2 HD" group-title="DEPORTE",LALIGA TV HYPERMOTION 2 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27194?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 2 FULL HD" group-title="DEPORTE",LALIGA TV HYPERMOTION 2 FULL HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27196?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 3 HD" group-title="DEPORTE",LALIGA TV HYPERMOTION 3 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27195?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 3 FULL HD" group-title="DEPORTE",LALIGA TV HYPERMOTION 3 FULL HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27197?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA INSIDE  PLUS " group-title="DEPORTE",LALIGA INSIDE  PLUS 
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30311?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="PRIMERA FEDERACION HD" group-title="DEPORTE",PRIMERA FEDERACION HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30310?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Baloncesto" group-title="DEPORTE",M+Baloncesto
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31121?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Baloncesto2" group-title="DEPORTE",M+Baloncesto2
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31122?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto" group-title="DEPORTE",DAZNBaloncesto
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30586?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto2" group-title="DEPORTE",DAZNBaloncesto2
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30587?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto3" group-title="DEPORTE",DAZNBaloncesto3
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30588?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 1 HD" group-title="DEPORTE",EUROSPORT 1 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/352?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT2HD" group-title="DEPORTE",EUROSPORT2HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28723?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 2" group-title="DEPORTE",EUROSPORT 2
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/414?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="BBC TOP GEAR" group-title="DEPORTE",BBC TOP GEAR
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30325?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS HD" group-title="DEPORTE",M+ VAMOS HD
+http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/379?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 2 HD" group-title="DEPORTE",M+ VAMOS 2 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27822?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 3 HD" group-title="DEPORTE",M+ VAMOS 3 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27159?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTESHD" group-title="DEPORTE",M+ DEPORTESHD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/359?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES2HD  SOLO EVENTOS " group-title="DEPORTE",M+ DEPORTES2HD  SOLO EVENTOS 
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/427?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES3  SOLO EVENTOS " group-title="DEPORTE",M+ DEPORTES3  SOLO EVENTOS 
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/429?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES4  SOLO EVENTOS " group-title="DEPORTE",M+ DEPORTES4  SOLO EVENTOS 
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/430?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES5  SOLO EVENTOS " group-title="DEPORTE",M+ DEPORTES5  SOLO EVENTOS 
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/431?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES6  SOLO EVENTOS " group-title="DEPORTE",M+ DEPORTES6  SOLO EVENTOS 
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/432?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 1" group-title="DEPORTE",DAZN EVENTOS 1
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30029?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 2" group-title="DEPORTE",DAZN EVENTOS 2
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30030?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 3" group-title="DEPORTE",DAZN EVENTOS 3
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30031?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 4" group-title="DEPORTE",DAZN EVENTOS 4
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30032?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 5" group-title="DEPORTE",DAZN EVENTOS 5
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30033?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 6" group-title="DEPORTE",DAZN EVENTOS 6
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30034?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 7" group-title="DEPORTE",DAZN EVENTOS 7
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30035?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 8" group-title="DEPORTE",DAZN EVENTOS 8
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30036?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 9" group-title="DEPORTE",DAZN EVENTOS 9
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30037?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 10" group-title="DEPORTE",DAZN EVENTOS 10
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30038?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="UFC HD" group-title="DEPORTE",UFC HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28982?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL PLAY" group-title="DEPORTE",GOL PLAY
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/418?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="TELE MADRID" group-title="DEPORTE",TELE MADRID
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/29462?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="Realmadrid TV HD" group-title="DEPORTE",Realmadrid TV HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/455?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="CASTILLA LA MANCHA" group-title="DEPORTE",CASTILLA LA MANCHA
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31125?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="TELEDEPORTE HD" group-title="DEPORTE",TELEDEPORTE HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/457?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF HD" group-title="DEPORTE",M+ GOLF HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/361?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF 2 HD" group-title="DEPORTE",M+ GOLF 2 HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27230?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="MULTIDEPORTE" group-title="DEPORTE",MULTIDEPORTE
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/449?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="TOP BAR  A HD" group-title="DEPORTE",TOP BAR  A HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31133?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPORT3 CAT HD" group-title="DEPORTE",ESPORT3 CAT HD
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31134?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+#EXTINF:-1 tvg-id="ext" tvg-name="RED BULL TV" group-title="DEPORTE",RED BULL TV
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31141?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 1" group-title="PLATAFORMAS",HBO Max 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26649?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 2" group-title="SPAIN",HBO Max 2
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 2" group-title="PLATAFORMAS",HBO Max 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26650?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 3" group-title="SPAIN",HBO Max 3
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 3" group-title="PLATAFORMAS",HBO Max 3
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26651?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 4" group-title="SPAIN",HBO Max 4
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 4" group-title="PLATAFORMAS",HBO Max 4
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26652?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 5" group-title="SPAIN",HBO Max 5
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 5" group-title="PLATAFORMAS",HBO Max 5
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26661?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR CINE 1 HD" group-title="SPAIN",MOVISTAR CINE 1 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26088?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -35,103 +235,103 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26102?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="Alquiler HD 10" group-title="SPAIN",Alquiler HD 10
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26103?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Box  Office 1" group-title="SPAIN",Box  Office 1
+#EXTINF:-1 tvg-id="ext" tvg-name="Box  Office 1" group-title="PLATAFORMAS",Box  Office 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26104?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Box  Office 2" group-title="SPAIN",Box  Office 2
+#EXTINF:-1 tvg-id="ext" tvg-name="Box  Office 2" group-title="PLATAFORMAS",Box  Office 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26105?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Box  Office 3" group-title="SPAIN",Box  Office 3
+#EXTINF:-1 tvg-id="ext" tvg-name="Box  Office 3" group-title="PLATAFORMAS",Box  Office 3
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26106?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Box  Office 4" group-title="SPAIN",Box  Office 4
+#EXTINF:-1 tvg-id="ext" tvg-name="Box  Office 4" group-title="PLATAFORMAS",Box  Office 4
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26107?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Box  Office 5" group-title="SPAIN",Box  Office 5
+#EXTINF:-1 tvg-id="ext" tvg-name="Box  Office 5" group-title="PLATAFORMAS",Box  Office 5
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26108?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Box  Office 6" group-title="SPAIN",Box  Office 6
+#EXTINF:-1 tvg-id="ext" tvg-name="Box  Office 6" group-title="PLATAFORMAS",Box  Office 6
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26109?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Peliculas Action HD 3" group-title="SPAIN",Peliculas Action HD 3
+#EXTINF:-1 tvg-id="ext" tvg-name="Peliculas Action HD 3" group-title="PLATAFORMAS",Peliculas Action HD 3
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26122?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Peliculas Action HD 5" group-title="SPAIN",Peliculas Action HD 5
+#EXTINF:-1 tvg-id="ext" tvg-name="Peliculas Action HD 5" group-title="PLATAFORMAS",Peliculas Action HD 5
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26124?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Peliculas de Ciencia ficcion HD 1" group-title="SPAIN",Peliculas de Ciencia ficcion HD 1
+#EXTINF:-1 tvg-id="ext" tvg-name="Peliculas de Ciencia ficcion HD 1" group-title="PLATAFORMAS",Peliculas de Ciencia ficcion HD 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26134?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Peliculas de Ciencia ficcion HD 2 " group-title="SPAIN",Peliculas de Ciencia ficcion HD 2 
+#EXTINF:-1 tvg-id="ext" tvg-name="Peliculas de Ciencia ficcion HD 2 " group-title="PLATAFORMAS",Peliculas de Ciencia ficcion HD 2 
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26135?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Peliculas de Ciencia ficcion HD 3" group-title="SPAIN",Peliculas de Ciencia ficcion HD 3
+#EXTINF:-1 tvg-id="ext" tvg-name="Peliculas de Ciencia ficcion HD 3" group-title="PLATAFORMAS",Peliculas de Ciencia ficcion HD 3
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26136?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Peliculas de Ciencia ficcion HD 4" group-title="SPAIN",Peliculas de Ciencia ficcion HD 4
+#EXTINF:-1 tvg-id="ext" tvg-name="Peliculas de Ciencia ficcion HD 4" group-title="PLATAFORMAS",Peliculas de Ciencia ficcion HD 4
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26137?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Peliculas de Ciencia ficcion HD 5" group-title="SPAIN",Peliculas de Ciencia ficcion HD 5
+#EXTINF:-1 tvg-id="ext" tvg-name="Peliculas de Ciencia ficcion HD 5" group-title="PLATAFORMAS",Peliculas de Ciencia ficcion HD 5
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26138?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 1" group-title="SPAIN",New Alquiler 1
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 1" group-title="PLATAFORMAS",New Alquiler 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26143?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 2" group-title="SPAIN",New Alquiler 2
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 2" group-title="PLATAFORMAS",New Alquiler 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26144?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 3" group-title="SPAIN",New Alquiler 3
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 3" group-title="PLATAFORMAS",New Alquiler 3
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26145?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 4" group-title="SPAIN",New Alquiler 4
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 4" group-title="PLATAFORMAS",New Alquiler 4
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26146?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 5" group-title="SPAIN",New Alquiler 5
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 5" group-title="PLATAFORMAS",New Alquiler 5
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26147?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 6" group-title="SPAIN",New Alquiler 6
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 6" group-title="PLATAFORMAS",New Alquiler 6
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26148?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 7" group-title="SPAIN",New Alquiler 7
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 7" group-title="PLATAFORMAS",New Alquiler 7
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26149?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 8" group-title="SPAIN",New Alquiler 8
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 8" group-title="PLATAFORMAS",New Alquiler 8
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26173?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 9" group-title="SPAIN",New Alquiler 9
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 9" group-title="PLATAFORMAS",New Alquiler 9
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26174?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 10" group-title="SPAIN",New Alquiler 10
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 10" group-title="PLATAFORMAS",New Alquiler 10
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26201?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 11" group-title="SPAIN",New Alquiler 11
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 11" group-title="PLATAFORMAS",New Alquiler 11
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26202?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 12" group-title="SPAIN",New Alquiler 12
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 12" group-title="PLATAFORMAS",New Alquiler 12
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26203?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 13" group-title="SPAIN",New Alquiler 13
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 13" group-title="PLATAFORMAS",New Alquiler 13
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26204?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 14" group-title="SPAIN",New Alquiler 14
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 14" group-title="PLATAFORMAS",New Alquiler 14
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26213?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 15" group-title="SPAIN",New Alquiler 15
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 15" group-title="PLATAFORMAS",New Alquiler 15
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26219?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 16" group-title="SPAIN",New Alquiler 16
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 16" group-title="PLATAFORMAS",New Alquiler 16
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26220?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 17" group-title="SPAIN",New Alquiler 17
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 17" group-title="PLATAFORMAS",New Alquiler 17
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26221?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 18" group-title="SPAIN",New Alquiler 18
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 18" group-title="PLATAFORMAS",New Alquiler 18
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26223?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 19" group-title="SPAIN",New Alquiler 19
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 19" group-title="PLATAFORMAS",New Alquiler 19
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26224?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 20" group-title="SPAIN",New Alquiler 20
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 20" group-title="PLATAFORMAS",New Alquiler 20
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26225?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 21" group-title="SPAIN",New Alquiler 21
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 21" group-title="PLATAFORMAS",New Alquiler 21
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26226?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 22" group-title="SPAIN",New Alquiler 22
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 22" group-title="PLATAFORMAS",New Alquiler 22
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26227?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 23" group-title="SPAIN",New Alquiler 23
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 23" group-title="PLATAFORMAS",New Alquiler 23
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26228?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 24" group-title="SPAIN",New Alquiler 24
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 24" group-title="PLATAFORMAS",New Alquiler 24
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26229?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 25" group-title="SPAIN",New Alquiler 25
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 25" group-title="PLATAFORMAS",New Alquiler 25
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26231?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 26" group-title="SPAIN",New Alquiler 26
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 26" group-title="PLATAFORMAS",New Alquiler 26
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26232?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 27" group-title="SPAIN",New Alquiler 27
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 27" group-title="PLATAFORMAS",New Alquiler 27
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26233?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 28" group-title="SPAIN",New Alquiler 28
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 28" group-title="PLATAFORMAS",New Alquiler 28
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26234?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 29" group-title="SPAIN",New Alquiler 29
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 29" group-title="PLATAFORMAS",New Alquiler 29
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26235?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 30" group-title="SPAIN",New Alquiler 30
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 30" group-title="PLATAFORMAS",New Alquiler 30
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26236?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 31" group-title="SPAIN",New Alquiler 31
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 31" group-title="PLATAFORMAS",New Alquiler 31
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26240?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 32" group-title="SPAIN",New Alquiler 32
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 32" group-title="PLATAFORMAS",New Alquiler 32
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26241?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 33" group-title="SPAIN",New Alquiler 33
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 33" group-title="PLATAFORMAS",New Alquiler 33
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26242?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 34" group-title="SPAIN",New Alquiler 34
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 34" group-title="PLATAFORMAS",New Alquiler 34
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26244?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 35" group-title="SPAIN",New Alquiler 35
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 35" group-title="PLATAFORMAS",New Alquiler 35
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26245?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 36" group-title="SPAIN",New Alquiler 36
+#EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 36" group-title="PLATAFORMAS",New Alquiler 36
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26243?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 37" group-title="SPAIN",New Alquiler 37
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26273?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -247,13 +447,13 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26154?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="LA SEXTA 4K" group-title="SPAIN",LA SEXTA 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26155?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 4K" group-title="SPAIN",DAZN F1 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 4K" group-title="DAZN",DAZN F1 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26271?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LALIGA 2 4K" group-title="SPAIN",M+ LALIGA 2 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LALIGA 2 4K" group-title="MOVISTAR+",M+ LALIGA 2 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30606?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LALIGA 3 4K" group-title="SPAIN",M+ LALIGA 3 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LALIGA 3 4K" group-title="MOVISTAR+",M+ LALIGA 3 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30605?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2 4K" group-title="SPAIN",DAZN LALIGA 2 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2 4K" group-title="DAZN",DAZN LALIGA 2 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30613?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="1    FEDERACION 4K" group-title="SPAIN",1    FEDERACION 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30615?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -265,45 +465,45 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30610?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+ 4K" group-title="SPAIN",Movistar Plus+ 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30597?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON2 4K" group-title="SPAIN",M+LCAMPEON2 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON2 4K" group-title="MOVISTAR+",M+LCAMPEON2 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30599?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name=" EUROSPORT 1 4K" group-title="SPAIN", EUROSPORT 1 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26281?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+DEPORTES 4K" group-title="SPAIN",M+DEPORTES 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+DEPORTES 4K" group-title="MOVISTAR+",M+DEPORTES 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30602?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+DEPORTES 2 4K" group-title="SPAIN",M+DEPORTES 2 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+DEPORTES 2 4K" group-title="MOVISTAR+",M+DEPORTES 2 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30603?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+  VAMOS 4K" group-title="SPAIN",M+  VAMOS 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+  VAMOS 4K" group-title="MOVISTAR+",M+  VAMOS 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26267?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 2 4K" group-title="SPAIN",M+ VAMOS 2 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 2 4K" group-title="MOVISTAR+",M+ VAMOS 2 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30604?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Estrenos 4K" group-title="SPAIN",M+ Estrenos 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Estrenos 4K" group-title="MOVISTAR+",M+ Estrenos 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26156?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Indie 4K" group-title="SPAIN",M+ Indie 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Indie 4K" group-title="MOVISTAR+",M+ Indie 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30607?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ CL SICOS 4K" group-title="SPAIN",M+ CL SICOS 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CL SICOS 4K" group-title="MOVISTAR+",M+ CL SICOS 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30609?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION 4K" group-title="SPAIN",M+ ACCION 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION 4K" group-title="MOVISTAR+",M+ ACCION 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26157?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA 4K" group-title="SPAIN",M+ COMEDIA 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA 4K" group-title="MOVISTAR+",M+ COMEDIA 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26158?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA 4K" group-title="SPAIN",M+ DRAMA 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA 4K" group-title="MOVISTAR+",M+ DRAMA 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26159?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ SERIES 4K" group-title="SPAIN",M+ SERIES 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ SERIES 4K" group-title="MOVISTAR+",M+ SERIES 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26160?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+VAMOS 3 4K" group-title="SPAIN",M+VAMOS 3 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+VAMOS 3 4K" group-title="MOVISTAR+",M+VAMOS 3 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30600?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="AMC 4K" group-title="SPAIN",AMC 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27186?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Originales 4K" group-title="SPAIN",M+ Originales 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Originales 4K" group-title="MOVISTAR+",M+ Originales 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26172?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name=" M+ GOLF 4K " group-title="SPAIN", M+ GOLF 4K 
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26323?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="CAZAyPESCA 4K" group-title="SPAIN",CAZAyPESCA 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30614?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+Documentales 4K" group-title="SPAIN",M+Documentales 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Documentales 4K" group-title="MOVISTAR+",M+Documentales 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30601?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ HITS 4K" group-title="SPAIN",M+ HITS 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ HITS 4K" group-title="MOVISTAR+",M+ HITS 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30608?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="New Alquiler 4K 1" group-title="SPAIN",New Alquiler 4K 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26182?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -319,23 +519,23 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26187?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="Movistar+1 4K" group-title="SPAIN",Movistar+1 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26660?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Del Mundo 4K 1" group-title="SPAIN",M+ Cine Del Mundo 4K 1
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Del Mundo 4K 1" group-title="MOVISTAR+",M+ Cine Del Mundo 4K 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27221?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Del Mundo 4K 2" group-title="SPAIN",M+ Cine Del Mundo 4K 2
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Del Mundo 4K 2" group-title="MOVISTAR+",M+ Cine Del Mundo 4K 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27222?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 FULL HD" group-title="SPAIN",DAZN F1 FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 FULL HD" group-title="DAZN",DAZN F1 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26627?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="GOL PLAY FULL HD" group-title="SPAIN",GOL PLAY FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3843?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS FULL HD" group-title="SPAIN",M+ VAMOS FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS FULL HD" group-title="MOVISTAR+",M+ VAMOS FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3819?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 2 FULL HD" group-title="SPAIN",M+ VAMOS 2 FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 2 FULL HD" group-title="MOVISTAR+",M+ VAMOS 2 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27177?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 3 FULL HD" group-title="SPAIN",M+ VAMOS 3 FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 3 FULL HD" group-title="MOVISTAR+",M+ VAMOS 3 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27189?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES FULL HD" group-title="SPAIN",M+ DEPORTES FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES FULL HD" group-title="MOVISTAR+",M+ DEPORTES FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3800?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES2 FULL HD" group-title="SPAIN",M+ DEPORTES2 FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES2 FULL HD" group-title="MOVISTAR+",M+ DEPORTES2 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27913?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 1 FULL HD" group-title="SPAIN",EUROSPORT 1 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3794?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -359,27 +559,27 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3851?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="NOVA FULL HD" group-title="SPAIN",NOVA FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3854?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Estrenos FULL HD" group-title="SPAIN",M+ Estrenos FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Estrenos FULL HD" group-title="MOVISTAR+",M+ Estrenos FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3805?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Indie FULL HD" group-title="SPAIN",M+ Indie FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Indie FULL HD" group-title="MOVISTAR+",M+ Indie FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3789?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION FULL HD" group-title="SPAIN",M+ ACCION FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION FULL HD" group-title="MOVISTAR+",M+ ACCION FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3799?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION 2 FULL HD" group-title="SPAIN",M+ ACCION 2 FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION 2 FULL HD" group-title="MOVISTAR+",M+ ACCION 2 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27199?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA FULL HD" group-title="SPAIN",M+ DRAMA FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA FULL HD" group-title="MOVISTAR+",M+ DRAMA FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3801?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA 2 FULL HD" group-title="SPAIN",M+ DRAMA 2 FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA 2 FULL HD" group-title="MOVISTAR+",M+ DRAMA 2 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27201?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA FULL HD" group-title="SPAIN",M+ COMEDIA FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA FULL HD" group-title="MOVISTAR+",M+ COMEDIA FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3804?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ CLASICOS FULL HD" group-title="SPAIN",M+ CLASICOS FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CLASICOS FULL HD" group-title="MOVISTAR+",M+ CLASICOS FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27214?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Espa  ol FULL HD" group-title="SPAIN",M+ Cine Espa  ol FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Espa  ol FULL HD" group-title="MOVISTAR+",M+ Cine Espa  ol FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3847?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Originales FULL HD" group-title="SPAIN",M+ Originales FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Originales FULL HD" group-title="MOVISTAR+",M+ Originales FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3796?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ NAVIDAD FULL HD" group-title="SPAIN",M+ NAVIDAD FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ NAVIDAD FULL HD" group-title="MOVISTAR+",M+ NAVIDAD FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28025?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="TCM FULL HD" group-title="SPAIN",TCM FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3813?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -393,7 +593,7 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3792?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX FULL HD" group-title="SPAIN",FOX FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3795?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ SERIES FULL HD" group-title="SPAIN",M+ SERIES FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ SERIES FULL HD" group-title="MOVISTAR+",M+ SERIES FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3803?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="SYFY FULL HD" group-title="SPAIN",SYFY FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3812?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -417,17 +617,17 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27238?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name=" DAZN 1 FULL HD" group-title="SPAIN", DAZN 1 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26623?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 FULL HD" group-title="SPAIN",DAZN 2 FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 FULL HD" group-title="DAZN",DAZN 2 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26624?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3 FULL HD" group-title="SPAIN",DAZN 3 FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3 FULL HD" group-title="DAZN",DAZN 3 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26630?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4 FULL HD" group-title="SPAIN",DAZN 4 FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4 FULL HD" group-title="DAZN",DAZN 4 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26631?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 2 FULL HD" group-title="SPAIN",EUROSPORT 2 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28023?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF FULL HD" group-title="SPAIN",M+ GOLF FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF FULL HD" group-title="MOVISTAR+",M+ GOLF FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3802?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF 2 FULL HD" group-title="SPAIN",M+ GOLF 2 FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF 2 FULL HD" group-title="MOVISTAR+",M+ GOLF 2 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27231?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="MULTIDEPORTE FULL HD" group-title="SPAIN",MULTIDEPORTE FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28027?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -439,7 +639,7 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3827?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="SUNDANCE TV FULL HD" group-title="SPAIN",SUNDANCE TV FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3856?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+Documentales FULL HD" group-title="SPAIN",M+Documentales FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Documentales FULL HD" group-title="MOVISTAR+",M+Documentales FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3821?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO FULL HD" group-title="SPAIN",NAT GEO FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3810?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -475,191 +675,191 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3853?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="DreamWorks FULL HD" group-title="SPAIN",DreamWorks FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27216?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ PeliFlix 1" group-title="SPAIN",M+ PeliFlix 1
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ PeliFlix 1" group-title="MOVISTAR+",M+ PeliFlix 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31111?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="A3CINE HD" group-title="SPAIN",A3CINE HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31135?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="DARK" group-title="SPAIN",DARK
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31139?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ CERO" group-title="SPAIN",M+ CERO
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CERO" group-title="MOVISTAR+",M+ CERO
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31137?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA   " group-title="SPAIN",M+ COMEDIA   
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA   " group-title="MOVISTAR+",M+ COMEDIA   
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28733?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Estrenos HD" group-title="SPAIN",M+ Estrenos HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Estrenos HD" group-title="MOVISTAR+",M+ Estrenos HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/364?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Indie HD" group-title="SPAIN",M+ Indie HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Indie HD" group-title="MOVISTAR+",M+ Indie HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27909?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Mission impossible" group-title="SPAIN",M+ Mission impossible
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Mission impossible" group-title="MOVISTAR+",M+ Mission impossible
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30326?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Ficcion Premium" group-title="SPAIN",M+ Ficcion Premium
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Ficcion Premium" group-title="MOVISTAR+",M+ Ficcion Premium
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28969?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION HD" group-title="SPAIN",M+ ACCION HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION HD" group-title="MOVISTAR+",M+ ACCION HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/358?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION 2 HD" group-title="SPAIN",M+ ACCION 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION 2 HD" group-title="MOVISTAR+",M+ ACCION 2 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27198?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ WARNER TV +1" group-title="SPAIN",M+ WARNER TV +1
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ WARNER TV +1" group-title="MOVISTAR+",M+ WARNER TV +1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31097?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cinesur 1" group-title="SPAIN",M+ Cinesur 1
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cinesur 1" group-title="PLATAFORMAS",M+ Cinesur 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26715?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cinesur 2" group-title="SPAIN",M+ Cinesur 2
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cinesur 2" group-title="PLATAFORMAS",M+ Cinesur 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30740?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cinesur 3" group-title="SPAIN",M+ Cinesur 3
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cinesur 3" group-title="PLATAFORMAS",M+ Cinesur 3
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30741?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cinesur 4" group-title="SPAIN",M+ Cinesur 4
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cinesur 4" group-title="PLATAFORMAS",M+ Cinesur 4
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30742?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ CineTapas 1" group-title="SPAIN",M+ CineTapas 1
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CineTapas 1" group-title="PLATAFORMAS",M+ CineTapas 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/29679?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ CineTapas 2" group-title="SPAIN",M+ CineTapas 2
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CineTapas 2" group-title="PLATAFORMAS",M+ CineTapas 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30007?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Ficcion 1 HD" group-title="SPAIN",M+ Ficcion 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Ficcion 1 HD" group-title="MOVISTAR+",M+ Ficcion 1 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28715?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Ficcion 2 HD" group-title="SPAIN",M+ Ficcion 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Ficcion 2 HD" group-title="MOVISTAR+",M+ Ficcion 2 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28716?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA HD" group-title="SPAIN",M+ COMEDIA HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA HD" group-title="MOVISTAR+",M+ COMEDIA HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/363?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Netflix y Siesta" group-title="SPAIN",M+ Netflix y Siesta
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Netflix y Siesta" group-title="MOVISTAR+",M+ Netflix y Siesta
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30019?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA HD" group-title="SPAIN",M+ DRAMA HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA HD" group-title="MOVISTAR+",M+ DRAMA HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/360?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA 2 HD" group-title="SPAIN",M+ DRAMA 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA 2 HD" group-title="MOVISTAR+",M+ DRAMA 2 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27200?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="BBC DRAMA" group-title="SPAIN",BBC DRAMA
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30322?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Espagnol" group-title="SPAIN",M+ Cine Espagnol
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Espagnol" group-title="MOVISTAR+",M+ Cine Espagnol
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/426?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Casa de la Risa" group-title="SPAIN",M+ Casa de la Risa
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Casa de la Risa" group-title="MOVISTAR+",M+ Casa de la Risa
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30020?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ CLASICOS HD" group-title="SPAIN",M+ CLASICOS HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CLASICOS HD" group-title="MOVISTAR+",M+ CLASICOS HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26665?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ La Septima Pantalla 1" group-title="SPAIN",M+ La Septima Pantalla 1
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ La Septima Pantalla 1" group-title="MOVISTAR+",M+ La Septima Pantalla 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30008?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ La Septima Pantalla 2" group-title="SPAIN",M+ La Septima Pantalla 2
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ La Septima Pantalla 2" group-title="MOVISTAR+",M+ La Septima Pantalla 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30009?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ NAVIDAD" group-title="SPAIN",M+ NAVIDAD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ NAVIDAD" group-title="MOVISTAR+",M+ NAVIDAD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27912?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="HOLLYWOOD" group-title="SPAIN",HOLLYWOOD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/354?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine con Sabor 1" group-title="SPAIN",M+ Cine con Sabor 1
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine con Sabor 1" group-title="MOVISTAR+",M+ Cine con Sabor 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30010?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine con Sabor 2" group-title="SPAIN",M+ Cine con Sabor 2
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine con Sabor 2" group-title="MOVISTAR+",M+ Cine con Sabor 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30011?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Iberian Screen" group-title="SPAIN",M+ Iberian Screen
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Iberian Screen" group-title="MOVISTAR+",M+ Iberian Screen
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30021?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="TCM" group-title="SPAIN",TCM
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/373?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Marvel Studios 1" group-title="SPAIN",Marvel Studios 1
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel Studios 1" group-title="PLATAFORMAS",Marvel Studios 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26654?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Marvel Studios 2" group-title="SPAIN",Marvel Studios 2
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel Studios 2" group-title="PLATAFORMAS",Marvel Studios 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26655?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Prime Video 1" group-title="SPAIN",Prime Video 1
+#EXTINF:-1 tvg-id="ext" tvg-name="Prime Video 1" group-title="PLATAFORMAS",Prime Video 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26653?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Prime Video 2" group-title="SPAIN",Prime Video 2
+#EXTINF:-1 tvg-id="ext" tvg-name="Prime Video 2" group-title="PLATAFORMAS",Prime Video 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26658?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="SkyShowtime 1" group-title="SPAIN",SkyShowtime 1
+#EXTINF:-1 tvg-id="ext" tvg-name="SkyShowtime 1" group-title="PLATAFORMAS",SkyShowtime 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27227?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="SkyShowtime 2" group-title="SPAIN",SkyShowtime 2
+#EXTINF:-1 tvg-id="ext" tvg-name="SkyShowtime 2" group-title="PLATAFORMAS",SkyShowtime 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27228?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv1" group-title="SPAIN",Procaja Tv1
+#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv1" group-title="PLATAFORMAS",Procaja Tv1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26722?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv2" group-title="SPAIN",Procaja Tv2
+#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv2" group-title="PLATAFORMAS",Procaja Tv2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26723?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv3" group-title="SPAIN",Procaja Tv3
+#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv3" group-title="PLATAFORMAS",Procaja Tv3
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26724?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Netflix 1" group-title="SPAIN",M+ Netflix 1
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Netflix 1" group-title="PLATAFORMAS",M+ Netflix 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27223?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Netflix 2" group-title="SPAIN",M+ Netflix 2
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Netflix 2" group-title="PLATAFORMAS",M+ Netflix 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27225?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="CINE+ 1 HD" group-title="SPAIN",CINE+ 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE+ 1 HD" group-title="PLATAFORMAS",CINE+ 1 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26344?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="CINE+ 2 HD" group-title="SPAIN",CINE+ 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE+ 2 HD" group-title="PLATAFORMAS",CINE+ 2 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26345?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Canal Alquiler HD 1" group-title="SPAIN",Canal Alquiler HD 1
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Alquiler HD 1" group-title="PLATAFORMAS",Canal Alquiler HD 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26647?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Top 1 HD" group-title="SPAIN",Rakuten TV Top 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Top 1 HD" group-title="PLATAFORMAS",Rakuten TV Top 1 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26716?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Top 2 HD" group-title="SPAIN",Rakuten TV Top 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Top 2 HD" group-title="PLATAFORMAS",Rakuten TV Top 2 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26717?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Family HD" group-title="SPAIN",Rakuten TV Family HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Family HD" group-title="PLATAFORMAS",Rakuten TV Family HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26718?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Trailer 2020" group-title="SPAIN",Trailer 2020
+#EXTINF:-1 tvg-id="ext" tvg-name="Trailer 2020" group-title="PLATAFORMAS",Trailer 2020
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26239?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Apple TV+ 1" group-title="SPAIN",Apple TV+ 1
+#EXTINF:-1 tvg-id="ext" tvg-name="Apple TV+ 1" group-title="PLATAFORMAS",Apple TV+ 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26720?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Apple TV+ 2" group-title="SPAIN",Apple TV+ 2
+#EXTINF:-1 tvg-id="ext" tvg-name="Apple TV+ 2" group-title="PLATAFORMAS",Apple TV+ 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26721?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="    SUP MOVIES    " group-title="SPAIN",    SUP MOVIES    
+#EXTINF:-1 tvg-id="ext" tvg-name="    SUP MOVIES    " group-title="PLATAFORMAS",    SUP MOVIES    
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27147?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 1" group-title="SPAIN",MOVISTAR+ MARVEL 1
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 1" group-title="PLATAFORMAS",MOVISTAR+ MARVEL 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26325?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 2" group-title="SPAIN",MOVISTAR+ MARVEL 2
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 2" group-title="PLATAFORMAS",MOVISTAR+ MARVEL 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26326?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 3" group-title="SPAIN",MOVISTAR+ MARVEL 3
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 3" group-title="PLATAFORMAS",MOVISTAR+ MARVEL 3
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26327?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 4" group-title="SPAIN",MOVISTAR+ MARVEL 4
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 4" group-title="PLATAFORMAS",MOVISTAR+ MARVEL 4
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26328?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 5" group-title="SPAIN",MOVISTAR+ MARVEL 5
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 5" group-title="PLATAFORMAS",MOVISTAR+ MARVEL 5
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26329?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 1" group-title="SPAIN",Super Movie 1
+#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 1" group-title="PLATAFORMAS",Super Movie 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26330?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 2" group-title="SPAIN",Super Movie 2
+#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 2" group-title="PLATAFORMAS",Super Movie 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26331?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 3" group-title="SPAIN",Super Movie 3
+#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 3" group-title="PLATAFORMAS",Super Movie 3
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26332?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 4" group-title="SPAIN",Super Movie 4
+#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 4" group-title="PLATAFORMAS",Super Movie 4
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26333?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 5" group-title="SPAIN",Super Movie 5
+#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 5" group-title="PLATAFORMAS",Super Movie 5
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26334?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 6" group-title="SPAIN",Super Movie 6
+#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 6" group-title="PLATAFORMAS",Super Movie 6
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26335?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 7" group-title="SPAIN",Super Movie 7
+#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 7" group-title="PLATAFORMAS",Super Movie 7
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26336?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 8" group-title="SPAIN",Super Movie 8
+#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 8" group-title="PLATAFORMAS",Super Movie 8
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26337?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 9" group-title="SPAIN",Super Movie 9
+#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 9" group-title="PLATAFORMAS",Super Movie 9
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26338?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 10" group-title="SPAIN",Super Movie 10
+#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 10" group-title="PLATAFORMAS",Super Movie 10
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26339?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 11" group-title="SPAIN",Super Movie 11
+#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 11" group-title="PLATAFORMAS",Super Movie 11
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26513?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 12" group-title="SPAIN",Super Movie 12
+#EXTINF:-1 tvg-id="ext" tvg-name="Super Movie 12" group-title="PLATAFORMAS",Super Movie 12
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26619?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Ficci  n Total 1" group-title="SPAIN",Ficci  n Total 1
+#EXTINF:-1 tvg-id="ext" tvg-name="Ficci  n Total 1" group-title="PLATAFORMAS",Ficci  n Total 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28151?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 1" group-title="SPAIN",Netflix 1
+#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 1" group-title="PLATAFORMAS",Netflix 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26282?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 2" group-title="SPAIN",Netflix 2
+#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 2" group-title="PLATAFORMAS",Netflix 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26283?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 3" group-title="SPAIN",Netflix 3
+#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 3" group-title="PLATAFORMAS",Netflix 3
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26284?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 4" group-title="SPAIN",Netflix 4
+#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 4" group-title="PLATAFORMAS",Netflix 4
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26285?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 5" group-title="SPAIN",Netflix 5
+#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 5" group-title="PLATAFORMAS",Netflix 5
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26288?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 6" group-title="SPAIN",Netflix 6
+#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 6" group-title="PLATAFORMAS",Netflix 6
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26289?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 7" group-title="SPAIN",Netflix 7
+#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 7" group-title="PLATAFORMAS",Netflix 7
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26311?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 8" group-title="SPAIN",Netflix 8
+#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 8" group-title="PLATAFORMAS",Netflix 8
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26312?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 9" group-title="SPAIN",Netflix 9
+#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 9" group-title="PLATAFORMAS",Netflix 9
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26313?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 10" group-title="SPAIN",Netflix 10
+#EXTINF:-1 tvg-id="ext" tvg-name="Netflix 10" group-title="PLATAFORMAS",Netflix 10
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26314?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Cinelatino HD 1" group-title="SPAIN",Cinelatino HD 1
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinelatino HD 1" group-title="PLATAFORMAS",Cinelatino HD 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26167?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Cinelatino HD 2" group-title="SPAIN",Cinelatino HD 2
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinelatino HD 2" group-title="PLATAFORMAS",Cinelatino HD 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26168?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Cinelatino HD 3" group-title="SPAIN",Cinelatino HD 3
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinelatino HD 3" group-title="PLATAFORMAS",Cinelatino HD 3
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26169?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Cinelatino HD 4" group-title="SPAIN",Cinelatino HD 4
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinelatino HD 4" group-title="PLATAFORMAS",Cinelatino HD 4
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26170?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Cinelatino HD 5" group-title="SPAIN",Cinelatino HD 5
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinelatino HD 5" group-title="PLATAFORMAS",Cinelatino HD 5
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26216?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Cinelatino HD 6" group-title="SPAIN",Cinelatino HD 6
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinelatino HD 6" group-title="PLATAFORMAS",Cinelatino HD 6
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26217?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Cinelatino HD 7" group-title="SPAIN",Cinelatino HD 7
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinelatino HD 7" group-title="PLATAFORMAS",Cinelatino HD 7
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26218?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+Documentales HD" group-title="SPAIN",M+Documentales HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Documentales HD" group-title="PLATAFORMAS",M+Documentales HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27682?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="CANAL ODISEA" group-title="SPAIN",CANAL ODISEA
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/399?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -685,11 +885,11 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31132?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="BBC HISTORY" group-title="SPAIN",BBC HISTORY
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30324?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Alerta Aeropuerto" group-title="SPAIN",24 7 Alerta Aeropuerto
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Alerta Aeropuerto" group-title="24/7", Alerta Aeropuerto
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26596?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Originales HD" group-title="SPAIN",M+ Originales HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Originales HD" group-title="MOVISTAR+",M+ Originales HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/378?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ SERIES HD" group-title="SPAIN",M+ SERIES HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ SERIES HD" group-title="MOVISTAR+",M+ SERIES HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/362?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR Channel" group-title="SPAIN",STAR Channel
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/353?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -719,145 +919,145 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/375?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="A3SERIES" group-title="SPAIN",A3SERIES
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26343?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Absentia" group-title="SPAIN",24 7 Absentia
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Absentia" group-title="24/7", Absentia
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26346?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Altered Carbon" group-title="SPAIN",24 7 Altered Carbon
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Altered Carbon" group-title="24/7", Altered Carbon
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26597?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Ana" group-title="SPAIN",24 7 Ana
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Ana" group-title="24/7", Ana
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26595?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Arrow" group-title="SPAIN",24 7 Arrow
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Arrow" group-title="24/7", Arrow
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26607?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 At  pico" group-title="SPAIN",24 7 At  pico
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 At  pico" group-title="24/7", At  pico
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26600?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Ballers" group-title="SPAIN",24 7 Ballers
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Ballers" group-title="24/7", Ballers
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26610?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Batwoman" group-title="SPAIN",24 7 Batwoman
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Batwoman" group-title="24/7", Batwoman
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26608?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Beowulf Return to the Shieldlands" group-title="SPAIN",24 7 Beowulf Return to the Shieldlands
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Beowulf Return to the Shieldlands" group-title="24/7", Beowulf Return to the Shieldlands
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26347?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Big Bang" group-title="SPAIN",24 7 Big Bang
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Big Bang" group-title="24/7", Big Bang
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26599?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Black Sails" group-title="SPAIN",24 7 Black Sails
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Black Sails" group-title="24/7", Black Sails
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26348?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Blindspot" group-title="SPAIN",24 7 Blindspot
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Blindspot" group-title="24/7", Blindspot
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26274?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Blood   Water" group-title="SPAIN",24 7 Blood   Water
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Blood   Water" group-title="24/7", Blood   Water
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26249?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Bodyguard" group-title="SPAIN",24 7 Bodyguard
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Bodyguard" group-title="24/7", Bodyguard
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26609?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Bolivar" group-title="SPAIN",24 7 Bolivar
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Bolivar" group-title="24/7", Bolivar
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26349?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Bones" group-title="SPAIN",24 7 Bones
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Bones" group-title="24/7", Bones
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26350?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Breaking Bad" group-title="SPAIN",24 7 Breaking Bad
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Breaking Bad" group-title="24/7", Breaking Bad
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26351?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Carta al rey" group-title="SPAIN",24 7 Carta al rey
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Carta al rey" group-title="24/7", Carta al rey
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26250?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Castle" group-title="SPAIN",24 7 Castle
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Castle" group-title="24/7", Castle
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26352?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Chernobyl" group-title="SPAIN",24 7 Chernobyl
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Chernobyl" group-title="24/7", Chernobyl
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26353?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Chicago Fire" group-title="SPAIN",24 7 Chicago Fire
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Chicago Fire" group-title="24/7", Chicago Fire
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26230?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Cobra Kai" group-title="SPAIN",24 7 Cobra Kai
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Cobra Kai" group-title="24/7", Cobra Kai
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26262?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Cosmos" group-title="SPAIN",24 7 Cosmos
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Cosmos" group-title="24/7", Cosmos
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26354?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 CSI_Miami" group-title="SPAIN",24 7 CSI_Miami
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 CSI_Miami" group-title="24/7", CSI_Miami
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26355?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 DARK" group-title="SPAIN",24 7 DARK
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 DARK" group-title="24/7", DARK
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26251?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Desaparecidos" group-title="SPAIN",24 7 Desaparecidos
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Desaparecidos" group-title="24/7", Desaparecidos
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26252?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Dexter" group-title="SPAIN",24 7 Dexter
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Dexter" group-title="24/7", Dexter
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26613?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 El Ultimo baile" group-title="SPAIN",24 7 El Ultimo baile
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 El Ultimo baile" group-title="24/7", El Ultimo baile
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26253?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 FBI" group-title="SPAIN",24 7 FBI
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 FBI" group-title="24/7", FBI
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26277?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Fernando" group-title="SPAIN",24 7 Fernando
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Fernando" group-title="24/7", Fernando
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26254?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Good Doctor" group-title="SPAIN",24 7 Good Doctor
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Good Doctor" group-title="24/7", Good Doctor
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26601?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Hawaii 5 0" group-title="SPAIN",24 7 Hawaii 5 0
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Hawaii 5 0" group-title="24/7", Hawaii 5 0
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26357?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Hunters" group-title="SPAIN",24 7 Hunters
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Hunters" group-title="24/7", Hunters
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26196?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 ICE" group-title="SPAIN",24 7 ICE
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 ICE" group-title="24/7", ICE
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26255?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Jack Ryan" group-title="SPAIN",24 7 Jack Ryan
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Jack Ryan" group-title="24/7", Jack Ryan
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26263?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Jessica Jones" group-title="SPAIN",24 7 Jessica Jones
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Jessica Jones" group-title="24/7", Jessica Jones
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26405?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Juego de tronos" group-title="SPAIN",24 7 Juego de tronos
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Juego de tronos" group-title="24/7", Juego de tronos
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26404?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Jugando con fuego" group-title="SPAIN",24 7 Jugando con fuego
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Jugando con fuego" group-title="24/7", Jugando con fuego
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26256?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 La casa de papel" group-title="SPAIN",24 7 La casa de papel
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 La casa de papel" group-title="24/7", La casa de papel
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26356?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 La Patrulla Canina 1" group-title="SPAIN",24 7 La Patrulla Canina 1
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 La Patrulla Canina 1" group-title="24/7", La Patrulla Canina 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26290?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 La Patrulla Canina 2" group-title="SPAIN",24 7 La Patrulla Canina 2
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 La Patrulla Canina 2" group-title="24/7", La Patrulla Canina 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26291?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Lenox Hill" group-title="SPAIN",24 7 Lenox Hill
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Lenox Hill" group-title="24/7", Lenox Hill
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26257?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Locke and  Key" group-title="SPAIN",24 7 Locke and  Key
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Locke and  Key" group-title="24/7", Locke and  Key
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26258?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Los Soprano" group-title="SPAIN",24 7 Los Soprano
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Los Soprano" group-title="24/7", Los Soprano
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26602?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 MacGyver " group-title="SPAIN",24 7 MacGyver 
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 MacGyver " group-title="24/7", MacGyver 
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26264?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Maldita" group-title="SPAIN",24 7 Maldita
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Maldita" group-title="24/7", Maldita
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26259?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Messiah" group-title="SPAIN",24 7 Messiah
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Messiah" group-title="24/7", Messiah
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26161?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Mr Robot" group-title="SPAIN",24 7 Mr Robot
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Mr Robot" group-title="24/7", Mr Robot
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26614?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Narcos" group-title="SPAIN",24 7 Narcos
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Narcos" group-title="24/7", Narcos
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26406?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Navy Investigacion Criminal" group-title="SPAIN",24 7 Navy Investigacion Criminal
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Navy Investigacion Criminal" group-title="24/7", Navy Investigacion Criminal
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26197?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 NCIS Criminologia Naval" group-title="SPAIN",24 7 NCIS Criminologia Naval
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 NCIS Criminologia Naval" group-title="24/7", NCIS Criminologia Naval
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26358?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 NCIS Los Angeles" group-title="SPAIN",24 7 NCIS Los Angeles
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 NCIS Los Angeles" group-title="24/7", NCIS Los Angeles
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26198?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 NCIS Los Angeles" group-title="SPAIN",24 7 NCIS Los Angeles
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 NCIS Los Angeles" group-title="24/7", NCIS Los Angeles
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26359?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Pandemia  como prevenir un brote" group-title="SPAIN",24 7 Pandemia  como prevenir un brote
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Pandemia  como prevenir un brote" group-title="24/7", Pandemia  como prevenir un brote
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26222?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Peppa Pig 1" group-title="SPAIN",24 7 Peppa Pig 1
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Peppa Pig 1" group-title="24/7", Peppa Pig 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26292?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Peppa Pig 2" group-title="SPAIN",24 7 Peppa Pig 2
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Peppa Pig 2" group-title="24/7", Peppa Pig 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26293?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Rogue" group-title="SPAIN",24 7 Rogue
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Rogue" group-title="24/7", Rogue
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26278?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Seal Team" group-title="SPAIN",24 7 Seal Team
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Seal Team" group-title="24/7", Seal Team
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26260?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 See" group-title="SPAIN",24 7 See
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 See" group-title="24/7", See
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26604?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Snowpiercer  Rompenieves" group-title="SPAIN",24 7 Snowpiercer  Rompenieves
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Snowpiercer  Rompenieves" group-title="24/7", Snowpiercer  Rompenieves
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26261?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Station 19" group-title="SPAIN",24 7 Station 19
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Station 19" group-title="24/7", Station 19
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26279?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Supergirl" group-title="SPAIN",24 7 Supergirl
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Supergirl" group-title="24/7", Supergirl
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26280?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 SWAT" group-title="SPAIN",24 7 SWAT
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 SWAT" group-title="24/7", SWAT
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26199?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 The First" group-title="SPAIN",24 7 The First
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 The First" group-title="24/7", The First
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26286?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 The Five" group-title="SPAIN",24 7 The Five
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 The Five" group-title="24/7", The Five
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26287?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 The Mandalorian" group-title="SPAIN",24 7 The Mandalorian
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 The Mandalorian" group-title="24/7", The Mandalorian
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26166?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 The Mandalorian" group-title="SPAIN",24 7 The Mandalorian
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 The Mandalorian" group-title="24/7", The Mandalorian
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26605?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 The Witcher" group-title="SPAIN",24 7 The Witcher
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 The Witcher" group-title="24/7", The Witcher
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26162?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Vikingos " group-title="SPAIN",24 7 Vikingos 
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Vikingos " group-title="24/7", Vikingos 
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26360?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Wu Assassins" group-title="SPAIN",24 7 Wu Assassins
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Wu Assassins" group-title="24/7", Wu Assassins
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26361?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 XIII The Series" group-title="SPAIN",24 7 XIII The Series
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 XIII The Series" group-title="24/7", XIII The Series
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26266?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="MUNDOTORO" group-title="SPAIN",MUNDOTORO
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27234?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -885,103 +1085,103 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/413?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="SUNDANCE TV" group-title="SPAIN",SUNDANCE TV
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/456?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD" group-title="SPAIN",M+ LaLigaTVHD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD" group-title="MOVISTAR+",M+ LaLigaTVHD
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26046?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD+" group-title="SPAIN",M+ LaLigaTVHD+
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD+" group-title="MOVISTAR+",M+ LaLigaTVHD+
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26248?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD 235" group-title="SPAIN",M+ LaLigaTVHD 235
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD 235" group-title="MOVISTAR+",M+ LaLigaTVHD 235
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27224?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV" group-title="SPAIN",M+ LaLigaTV
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV" group-title="MOVISTAR+",M+ LaLigaTV
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/435?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVSD" group-title="SPAIN",M+ LaLigaTVSD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVSD" group-title="MOVISTAR+",M+ LaLigaTVSD
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26247?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV FULL HD" group-title="SPAIN",M+ LaLigaTV FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV FULL HD" group-title="MOVISTAR+",M+ LaLigaTV FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3849?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 4K" group-title="SPAIN",M+ LaLigaTV 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 4K" group-title="MOVISTAR+",M+ LaLigaTV 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26142?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2 HD" group-title="SPAIN",M+ LaLigaTV 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2 HD" group-title="MOVISTAR+",M+ LaLigaTV 2 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26048?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2 FULL HD" group-title="SPAIN",M+ LaLigaTV 2 FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2 FULL HD" group-title="MOVISTAR+",M+ LaLigaTV 2 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26045?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 3 HD" group-title="SPAIN",M+ LaLigaTV 3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 3 HD" group-title="MOVISTAR+",M+ LaLigaTV 3 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28987?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD" group-title="SPAIN",DAZN LALIGA HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD" group-title="DAZN",DAZN LALIGA HD
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27160?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD+" group-title="SPAIN",DAZN LALIGA HD+
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD+" group-title="DAZN",DAZN LALIGA HD+
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27173?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD 235" group-title="SPAIN",DAZN LALIGA HD 235
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD 235" group-title="DAZN",DAZN LALIGA HD 235
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27226?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA " group-title="SPAIN",DAZN LALIGA 
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA " group-title="DAZN",DAZN LALIGA 
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27174?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA SD" group-title="SPAIN",DAZN LALIGA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA SD" group-title="DAZN",DAZN LALIGA SD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27170?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA FULL HD" group-title="SPAIN",DAZN LALIGA FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA FULL HD" group-title="DAZN",DAZN LALIGA FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27175?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 4K" group-title="SPAIN",DAZN LALIGA 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 4K" group-title="DAZN",DAZN LALIGA 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27168?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2 HD" group-title="SPAIN",DAZN LALIGA 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2 HD" group-title="DAZN",DAZN LALIGA 2 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27161?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2 FULL HD" group-title="SPAIN",DAZN LALIGA 2 FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2 FULL HD" group-title="DAZN",DAZN LALIGA 2 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27163?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP FULL HD" group-title="SPAIN",DAZN MOTO GP FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP FULL HD" group-title="DAZN",DAZN MOTO GP FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31120?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP HD" group-title="SPAIN",DAZN MOTO GP HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP HD" group-title="DAZN",DAZN MOTO GP HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31119?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP SD" group-title="SPAIN",DAZN MOTO GP SD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP SD" group-title="DAZN",DAZN MOTO GP SD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30743?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN RALLY TV" group-title="SPAIN",DAZN RALLY TV
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN RALLY TV" group-title="DAZN",DAZN RALLY TV
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31112?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 HD" group-title="SPAIN",DAZN F1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 HD" group-title="DAZN",DAZN F1 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26626?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 HD" group-title="SPAIN",DAZN 1 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 HD" group-title="DAZN",DAZN 1 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/24923?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 HD" group-title="SPAIN",DAZN 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 HD" group-title="DAZN",DAZN 2 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/24922?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3 HD" group-title="SPAIN",DAZN 3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3 HD" group-title="DAZN",DAZN 3 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26628?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4 HD" group-title="SPAIN",DAZN 4 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4 HD" group-title="DAZN",DAZN 4 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26629?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="UEFA Champions League" group-title="SPAIN",UEFA Champions League
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27178?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES +" group-title="SPAIN",M+ LCAMPEONES +
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES +" group-title="MOVISTAR+",M+ LCAMPEONES +
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26318?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES SD" group-title="SPAIN",M+ LCAMPEONES SD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES SD" group-title="MOVISTAR+",M+ LCAMPEONES SD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26317?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD" group-title="SPAIN",M+ LCAMPEONES HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD" group-title="MOVISTAR+",M+ LCAMPEONES HD
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/445?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD+" group-title="SPAIN",M+ LCAMPEONES HD+
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD+" group-title="MOVISTAR+",M+ LCAMPEONES HD+
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26315?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 4K" group-title="SPAIN",M+ LCAMPEONES 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 4K" group-title="MOVISTAR+",M+ LCAMPEONES 4K
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26140?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES FULL HD" group-title="SPAIN",M+ LCAMPEONES FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES FULL HD" group-title="MOVISTAR+",M+ LCAMPEONES FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26078?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 HD" group-title="SPAIN",M+ LCAMPEONES 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 HD" group-title="MOVISTAR+",M+ LCAMPEONES 2 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/439?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 FULL HD" group-title="SPAIN",M+ LCAMPEONES 2 FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 FULL HD" group-title="MOVISTAR+",M+ LCAMPEONES 2 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26080?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 HD" group-title="SPAIN",M+ LCAMPEONES 3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 HD" group-title="MOVISTAR+",M+ LCAMPEONES 3 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31127?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 FULL HD" group-title="SPAIN",M+ LCAMPEONES 3 FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 FULL HD" group-title="MOVISTAR+",M+ LCAMPEONES 3 FULL HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31126?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 4" group-title="SPAIN",M+ LCAMPEONES 4
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 4" group-title="MOVISTAR+",M+ LCAMPEONES 4
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31128?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 5" group-title="SPAIN",M+ LCAMPEONES 5
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 5" group-title="MOVISTAR+",M+ LCAMPEONES 5
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31129?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON6" group-title="SPAIN",M+LCAMPEON6
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON6" group-title="MOVISTAR+",M+LCAMPEON6
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31154?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON7" group-title="SPAIN",M+LCAMPEON7
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON7" group-title="MOVISTAR+",M+LCAMPEON7
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31155?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON8" group-title="SPAIN",M+LCAMPEON8
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON8" group-title="MOVISTAR+",M+LCAMPEON8
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31156?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON9" group-title="SPAIN",M+LCAMPEON9
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON9" group-title="MOVISTAR+",M+LCAMPEON9
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31157?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON10" group-title="SPAIN",M+LCAMPEON10
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON10" group-title="MOVISTAR+",M+LCAMPEON10
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31158?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON11" group-title="SPAIN",M+LCAMPEON11
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON11" group-title="MOVISTAR+",M+LCAMPEON11
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31159?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON12" group-title="SPAIN",M+LCAMPEON12
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON12" group-title="MOVISTAR+",M+LCAMPEON12
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31160?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON13" group-title="SPAIN",M+LCAMPEON13
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON13" group-title="MOVISTAR+",M+LCAMPEON13
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31161?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+ HD" group-title="SPAIN",Movistar Plus+ HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26663?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -1003,15 +1203,15 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30311?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="PRIMERA FEDERACION HD" group-title="SPAIN",PRIMERA FEDERACION HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30310?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+Baloncesto" group-title="SPAIN",M+Baloncesto
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Baloncesto" group-title="MOVISTAR+",M+Baloncesto
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31121?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+Baloncesto2" group-title="SPAIN",M+Baloncesto2
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Baloncesto2" group-title="MOVISTAR+",M+Baloncesto2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31122?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto" group-title="SPAIN",DAZNBaloncesto
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto" group-title="DAZN",DAZNBaloncesto
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30586?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto2" group-title="SPAIN",DAZNBaloncesto2
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto2" group-title="DAZN",DAZNBaloncesto2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30587?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto3" group-title="SPAIN",DAZNBaloncesto3
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto3" group-title="DAZN",DAZNBaloncesto3
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30588?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 1 HD" group-title="SPAIN",EUROSPORT 1 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/352?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -1021,43 +1221,43 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/414?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="BBC TOP GEAR" group-title="SPAIN",BBC TOP GEAR
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30325?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS HD" group-title="SPAIN",M+ VAMOS HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS HD" group-title="MOVISTAR+",M+ VAMOS HD
 http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/379?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 2 HD" group-title="SPAIN",M+ VAMOS 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 2 HD" group-title="MOVISTAR+",M+ VAMOS 2 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27822?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 3 HD" group-title="SPAIN",M+ VAMOS 3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 3 HD" group-title="MOVISTAR+",M+ VAMOS 3 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27159?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTESHD" group-title="SPAIN",M+ DEPORTESHD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTESHD" group-title="MOVISTAR+",M+ DEPORTESHD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/359?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES2HD  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES2HD  SOLO EVENTOS 
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES2HD  SOLO EVENTOS " group-title="MOVISTAR+",M+ DEPORTES2HD  SOLO EVENTOS 
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/427?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES3  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES3  SOLO EVENTOS 
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES3  SOLO EVENTOS " group-title="MOVISTAR+",M+ DEPORTES3  SOLO EVENTOS 
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/429?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES4  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES4  SOLO EVENTOS 
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES4  SOLO EVENTOS " group-title="MOVISTAR+",M+ DEPORTES4  SOLO EVENTOS 
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/430?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES5  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES5  SOLO EVENTOS 
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES5  SOLO EVENTOS " group-title="MOVISTAR+",M+ DEPORTES5  SOLO EVENTOS 
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/431?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES6  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES6  SOLO EVENTOS 
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES6  SOLO EVENTOS " group-title="MOVISTAR+",M+ DEPORTES6  SOLO EVENTOS 
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/432?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 1" group-title="SPAIN",DAZN EVENTOS 1
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 1" group-title="DAZN",DAZN EVENTOS 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30029?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 2" group-title="SPAIN",DAZN EVENTOS 2
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 2" group-title="DAZN",DAZN EVENTOS 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30030?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 3" group-title="SPAIN",DAZN EVENTOS 3
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 3" group-title="DAZN",DAZN EVENTOS 3
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30031?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 4" group-title="SPAIN",DAZN EVENTOS 4
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 4" group-title="DAZN",DAZN EVENTOS 4
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30032?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 5" group-title="SPAIN",DAZN EVENTOS 5
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 5" group-title="DAZN",DAZN EVENTOS 5
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30033?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 6" group-title="SPAIN",DAZN EVENTOS 6
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 6" group-title="DAZN",DAZN EVENTOS 6
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30034?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 7" group-title="SPAIN",DAZN EVENTOS 7
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 7" group-title="DAZN",DAZN EVENTOS 7
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30035?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 8" group-title="SPAIN",DAZN EVENTOS 8
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 8" group-title="DAZN",DAZN EVENTOS 8
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30036?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 9" group-title="SPAIN",DAZN EVENTOS 9
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 9" group-title="DAZN",DAZN EVENTOS 9
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30037?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 10" group-title="SPAIN",DAZN EVENTOS 10
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 10" group-title="DAZN",DAZN EVENTOS 10
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30038?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="UFC HD" group-title="SPAIN",UFC HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28982?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -1071,9 +1271,9 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31125?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="TELEDEPORTE HD" group-title="SPAIN",TELEDEPORTE HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/457?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF HD" group-title="SPAIN",M+ GOLF HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF HD" group-title="MOVISTAR+",M+ GOLF HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/361?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF 2 HD" group-title="SPAIN",M+ GOLF 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF 2 HD" group-title="MOVISTAR+",M+ GOLF 2 HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27230?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="MULTIDEPORTE" group-title="SPAIN",MULTIDEPORTE
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/449?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -1117,9 +1317,9 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/383?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="DreamWorks" group-title="SPAIN",DreamWorks
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26625?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Masha y el Oso" group-title="SPAIN",24 7 Masha y el Oso
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Masha y el Oso" group-title="24/7", Masha y el Oso
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26309?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 El Bombero Sam" group-title="SPAIN",24 7 El Bombero Sam
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 El Bombero Sam" group-title="24/7", El Bombero Sam
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26310?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 1" group-title="SPAIN",movistar infantiles 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26205?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -1139,7 +1339,7 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26212?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 9" group-title="SPAIN",movistar infantiles 9
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26620?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Raised By Wolves" group-title="SPAIN",24 7 Raised By Wolves
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Raised By Wolves" group-title="24/7", Raised By Wolves
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26265?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="24 HORAS" group-title="SPAIN",24 HORAS
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/380?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
@@ -1243,204 +1443,7 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/9666
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27907?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="TV NACIONAL 6" group-title="TDT",TV NACIONAL 6
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27908?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD" group-title="SPORT",M+ LaLigaTVHD
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26046?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD+" group-title="SPORT",M+ LaLigaTVHD+
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26248?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD 235" group-title="SPORT",M+ LaLigaTVHD 235
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27224?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV" group-title="SPORT",M+ LaLigaTV
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/435?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVSD" group-title="SPORT",M+ LaLigaTVSD
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26247?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV FULL HD" group-title="SPORT",M+ LaLigaTV FULL HD
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/3849?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 4K" group-title="SPORT",M+ LaLigaTV 4K
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26142?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2 HD" group-title="SPORT",M+ LaLigaTV 2 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26048?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2 FULL HD" group-title="SPORT",M+ LaLigaTV 2 FULL HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26045?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 3 HD" group-title="SPORT",M+ LaLigaTV 3 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28987?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD" group-title="SPORT",DAZN LALIGA HD
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27160?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD+" group-title="SPORT",DAZN LALIGA HD+
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27173?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD 235" group-title="SPORT",DAZN LALIGA HD 235
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27226?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA " group-title="SPORT",DAZN LALIGA 
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27174?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA SD" group-title="SPORT",DAZN LALIGA SD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27170?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA FULL HD" group-title="SPORT",DAZN LALIGA FULL HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27175?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 4K" group-title="SPORT",DAZN LALIGA 4K
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27168?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2 HD" group-title="SPORT",DAZN LALIGA 2 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27161?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2 FULL HD" group-title="SPORT",DAZN LALIGA 2 FULL HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27163?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP FULL HD" group-title="SPORT",DAZN MOTO GP FULL HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31120?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP HD" group-title="SPORT",DAZN MOTO GP HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31119?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP SD" group-title="SPORT",DAZN MOTO GP SD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30743?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN RALLY TV" group-title="SPORT",DAZN RALLY TV
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31112?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 HD" group-title="SPORT",DAZN F1 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26626?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 HD" group-title="SPORT",DAZN 1 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/24923?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 HD" group-title="SPORT",DAZN 2 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/24922?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3 HD" group-title="SPORT",DAZN 3 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26628?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4 HD" group-title="SPORT",DAZN 4 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26629?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="UEFA Champions League" group-title="SPORT",UEFA Champions League
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27178?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES +" group-title="SPORT",M+ LCAMPEONES +
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26318?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES SD" group-title="SPORT",M+ LCAMPEONES SD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26317?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD" group-title="SPORT",M+ LCAMPEONES HD
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/445?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD+" group-title="SPORT",M+ LCAMPEONES HD+
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26315?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 4K" group-title="SPORT",M+ LCAMPEONES 4K
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26140?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES FULL HD" group-title="SPORT",M+ LCAMPEONES FULL HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26078?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 HD" group-title="SPORT",M+ LCAMPEONES 2 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/439?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 FULL HD" group-title="SPORT",M+ LCAMPEONES 2 FULL HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26080?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 HD" group-title="SPORT",M+ LCAMPEONES 3 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31127?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 FULL HD" group-title="SPORT",M+ LCAMPEONES 3 FULL HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31126?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 4" group-title="SPORT",M+ LCAMPEONES 4
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31128?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 5" group-title="SPORT",M+ LCAMPEONES 5
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31129?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON6" group-title="SPORT",M+LCAMPEON6
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31154?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON7" group-title="SPORT",M+LCAMPEON7
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31155?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON8" group-title="SPORT",M+LCAMPEON8
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31156?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON9" group-title="SPORT",M+LCAMPEON9
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31157?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON10" group-title="SPORT",M+LCAMPEON10
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31158?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON11" group-title="SPORT",M+LCAMPEON11
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31159?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON12" group-title="SPORT",M+LCAMPEON12
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31160?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON13" group-title="SPORT",M+LCAMPEON13
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31161?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+ HD" group-title="SPORT",Movistar Plus+ HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/26663?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+ FULL HD" group-title="SPORT",Movistar Plus+ FULL HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27193?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION HD" group-title="SPORT",LALIGA TV HYPERMOTION HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27164?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION FULL HD" group-title="SPORT",LALIGA TV HYPERMOTION FULL HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27166?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 2 HD" group-title="SPORT",LALIGA TV HYPERMOTION 2 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27194?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 2 FULL HD" group-title="SPORT",LALIGA TV HYPERMOTION 2 FULL HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27196?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 3 HD" group-title="SPORT",LALIGA TV HYPERMOTION 3 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27195?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 3 FULL HD" group-title="SPORT",LALIGA TV HYPERMOTION 3 FULL HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27197?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA INSIDE  PLUS " group-title="SPORT",LALIGA INSIDE  PLUS 
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30311?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="PRIMERA FEDERACION HD" group-title="SPORT",PRIMERA FEDERACION HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30310?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+Baloncesto" group-title="SPORT",M+Baloncesto
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31121?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+Baloncesto2" group-title="SPORT",M+Baloncesto2
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31122?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto" group-title="SPORT",DAZNBaloncesto
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30586?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto2" group-title="SPORT",DAZNBaloncesto2
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30587?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto3" group-title="SPORT",DAZNBaloncesto3
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30588?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 1 HD" group-title="SPORT",EUROSPORT 1 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/352?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT2HD" group-title="SPORT",EUROSPORT2HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28723?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 2" group-title="SPORT",EUROSPORT 2
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/414?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="BBC TOP GEAR" group-title="SPORT",BBC TOP GEAR
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30325?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS HD" group-title="SPORT",M+ VAMOS HD
-http://5213b9f1d32fd6c567c09e04c29a2887.lagas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/379?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 2 HD" group-title="SPORT",M+ VAMOS 2 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27822?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 3 HD" group-title="SPORT",M+ VAMOS 3 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27159?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTESHD" group-title="SPORT",M+ DEPORTESHD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/359?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES2HD  SOLO EVENTOS " group-title="SPORT",M+ DEPORTES2HD  SOLO EVENTOS 
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/427?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES3  SOLO EVENTOS " group-title="SPORT",M+ DEPORTES3  SOLO EVENTOS 
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/429?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES4  SOLO EVENTOS " group-title="SPORT",M+ DEPORTES4  SOLO EVENTOS 
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/430?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES5  SOLO EVENTOS " group-title="SPORT",M+ DEPORTES5  SOLO EVENTOS 
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/431?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES6  SOLO EVENTOS " group-title="SPORT",M+ DEPORTES6  SOLO EVENTOS 
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/432?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 1" group-title="SPORT",DAZN EVENTOS 1
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30029?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 2" group-title="SPORT",DAZN EVENTOS 2
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30030?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 3" group-title="SPORT",DAZN EVENTOS 3
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30031?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 4" group-title="SPORT",DAZN EVENTOS 4
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30032?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 5" group-title="SPORT",DAZN EVENTOS 5
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30033?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 6" group-title="SPORT",DAZN EVENTOS 6
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30034?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 7" group-title="SPORT",DAZN EVENTOS 7
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30035?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 8" group-title="SPORT",DAZN EVENTOS 8
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30036?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 9" group-title="SPORT",DAZN EVENTOS 9
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30037?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 10" group-title="SPORT",DAZN EVENTOS 10
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/30038?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="UFC HD" group-title="SPORT",UFC HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/28982?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="GOL PLAY" group-title="SPORT",GOL PLAY
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/418?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="TELE MADRID" group-title="SPORT",TELE MADRID
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/29462?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="Realmadrid TV HD" group-title="SPORT",Realmadrid TV HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/455?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="CASTILLA LA MANCHA" group-title="SPORT",CASTILLA LA MANCHA
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31125?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="TELEDEPORTE HD" group-title="SPORT",TELEDEPORTE HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/457?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF HD" group-title="SPORT",M+ GOLF HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/361?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF 2 HD" group-title="SPORT",M+ GOLF 2 HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/27230?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="MULTIDEPORTE" group-title="SPORT",MULTIDEPORTE
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/449?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="TOP BAR  A HD" group-title="SPORT",TOP BAR  A HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31133?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="ESPORT3 CAT HD" group-title="SPORT",ESPORT3 CAT HD
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31134?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
-#EXTINF:-1 tvg-id="ext" tvg-name="RED BULL TV" group-title="SPORT",RED BULL TV
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31141?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
+
 #EXTINF:-1 tvg-id="ext" tvg-name="A3CINE HD" group-title="CINE",A3CINE HD
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/Ksx5xIBZZL/966622961926/31135?h=143a0571f4150709527d53a6129fdff6bc9eb344&z=79.116.238.212&i=388847
 #EXTINF:-1 tvg-id="ext" tvg-name="DARK" group-title="CINE",DARK
