@@ -159,20 +159,18 @@ http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/643
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/644
 #EXTINF:-1 tvg-id="es.Nickelodeon" tvg-name="NICKELODEON" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="INFANTILES",NICKELODEON
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/645
-
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="TDT",LA 1
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/648
 #EXTINF:-1 tvg-id="LA2.es" tvg-name="LA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="TDT",LA 2
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/649
 #EXTINF:-1 tvg-id="0" tvg-name="ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="TDT",ANTENA 3
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/646
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="TDT",LA SEXTA
-http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/650
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-name="CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="TDT",CUATRO
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/651
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="TDT",TELECINCO
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/647
-
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="TDT",LA SEXTA
+http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/650
 #EXTINF:-1 tvg-id="Factoria de Ficcion" tvg-name="FACTORÍA DE FICCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="TDT",FACTORÍA DE FICCIÓN
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/652
 #EXTINF:-1 tvg-id="Nova.es" tvg-name="NOVA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="TDT",NOVA
