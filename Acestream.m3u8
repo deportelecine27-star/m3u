@@ -48,9 +48,10 @@ acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
 #EXTINF:-1 tvg-logo="http://deportelecine.ucoz.com.br/PNG/laliga2.png" tvg-id="M+ LaLiga HD" group-title="LaLiga", M+ LALIGA 2
 acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
- 
-
-
+#EXTINF:-1 tvg-logo="http://deportelecine.ucoz.com.br/PNG/laliga3.png" tvg-id="M+ LaLiga HD" group-title="LaLiga", M+ LALIGA 3
+acestream://5d75fbc6900598e32cfe9a3dae5517d4d69d75ba
+#EXTINF:-1 tvg-logo="http://deportelecine.ucoz.com.br/PNG/laliga4.png" tvg-id="M+ LaLiga HD" group-title="LaLiga", M+ LALIGA 4
+acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION --> ELCANO
