@@ -11,20 +11,13 @@ acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA  ELCANO
-acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA ELCANO
-acestream://9c588ac92554746c489bc553773d959f6d2dfd8e
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA  
+acestream://46949ff98c05dd3471da249f2c7121d6fa198294
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA 
+acestream://8c0fa8c0f1be146dcc64a94e37c64993df86c72a
 
 #EXTINF:-1 tvg-logo="http://deportelecine.ucoz.com.br/PNG/Dazn_laliga2.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA 2
-acestream://a70a1605f69c8379e04094df96922a42adfbb431
-#EXTINF:-1 tvg-logo="http://deportelecine.ucoz.com.br/PNG/Dazn_laliga2.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA 2
-acestream://465075c02b7284f564911bd63d1c6f0a8d464be7
+acestream://e8b742b2d33a53f7c3c190e0cdbdcc8904eb3607
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LaLiga", M+ LALIGA 
@@ -106,10 +99,8 @@ acestream://cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5
 
 
 
-#EXTINF:-1 tvg-logo="https://vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" tvg-id="" group-title="DAZN", DAZN MOTOGP --> NEW ERA
-acestream://11cbb5346d28af0b972e646832f4be23dd39502d
-#EXTINF:-1 tvg-logo="https://vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" tvg-id="" group-title="DAZN", DAZN MOTOGP 
-acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 tvg-logo="https://vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" tvg-id="" group-title="DAZN", DAZN MOTOGP
+acestream://60722ef6ae212394527f96c61e95cad3ddac1b91
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="DAZN", DAZN F1 4K --> NEW ERA
