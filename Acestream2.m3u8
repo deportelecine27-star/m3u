@@ -25,45 +25,45 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="LaLiga", MOVISTAR+ PLUS FHD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="LaLiga", M+ PLUS FHD --> NEW ERA
 acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="LaLiga", MOVISTAR+ PLUS FHD --> NEW ERA III
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="LaLiga", M+ PLUS FHD --> NEW ERA III
 acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="LaLiga", MOVISTAR+ PLUS FHD --> NEW ERA VI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="LaLiga", M+ PLUS FHD --> NEW ERA VI
 acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="LaLiga", MOVISTAR+ PLUS FHD --> ELCANO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="LaLiga", M+ PLUS FHD --> ELCANO
 acestream://30b9909b14b1924798573cace9f41369e1a334c5
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA 1 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LaLiga --> NEW ERA
 acestream://19f28f60c908f987b1a03da078e63320d7bf29e8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA 1 FHD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LaLiga FHD --> NEW ERA
 acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA 1 FHD --> NEW ERA VI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LaLiga FHD --> NEW ERA VI
 acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA 1 --> ELCANO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LaLiga --> ELCANO
 acestream://8c0fa8c0f1be146dcc64a94e37c64993df86c72a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA 1 --> ELCANO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LaLiga --> ELCANO
 acestream://cff402c0e11802d92fabf37b28d9ef20f03245d9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA 1 --> ELCANO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LaLiga --> ELCANO
 acestream://3a03dc436b15f1d5d7b285c80b982da02502c26d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA 1 --> ELCANO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LaLiga --> ELCANO
 acestream://e8dc3e7a1ee14566fc2d56a11037ee091e40f2e5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA 1 --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LaLiga --> NEW LOOP
 acestream://8a25653a2f774f4ae1062d38a30dcd714d304a3a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA 1 --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LaLiga --> NEW LOOP
 acestream://b119416386155a6b85e7d0c7cab3ab92c7bfb87c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA 1 --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LaLiga --> NEW LOOP
 acestream://5437f76710c6cf7769e4a101ee52a6f4d4b39745
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LA LIGA 1 --> SPORT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LaLiga", DAZN LaLiga --> SPORT TV
 acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LaLiga", DAZN LA LIGA 2 --> ELCANO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LaLiga", DAZN LaLiga 2 --> ELCANO
 acestream://357e71223aad8bf80d3b86d31d9a0f75dd42d91e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LaLiga", DAZN LA LIGA 2 --> ELCANO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LaLiga", DAZN LaLiga 2 --> ELCANO
 acestream://db26cad444717c262dddb5ea37301ee779d4f5b9
 
 
@@ -385,17 +385,17 @@ acestream://fec26bfe50edcf704be4d7a20775db400e379bf6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+ DEPORTES", M+ VAMOS --> ELCANO
 acestream://f75efb1ab987e9b207daccb9a3d49efa056bdd95
 
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="M+ DEPORTES", M+ Golf 2 FHDp * --> ELCANO
-acestream://2c8801c8e20cd9a1edc39ff4b5b1ecec21fde483
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="M+ DEPORTES", M+ Golf 2 FHDp ** --> ELCANO
-acestream://d8cac298fc607123cde5315d6091d7b83b63f817
+
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="M+ DEPORTES", M+ Golf FHDp * --> ELCANO
 acestream://3f7338c6ee6fab7cd134325e57591e02ebbf59e4
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="M+ DEPORTES", M+ Golf SDp * --> ELCANO
 acestream://ec825614dae92f14f1567084012ab79d7802e425
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="M+ DEPORTES", M+ Golf FHDp ** --> ELCANO
 acestream://a9af8a1705b715948702daf926e33e38c5bd59d7
-
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="M+ DEPORTES", M+ Golf 2 FHDp * --> ELCANO
+acestream://2c8801c8e20cd9a1edc39ff4b5b1ecec21fde483
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="M+ DEPORTES", M+ Golf 2 FHDp ** --> ELCANO
+acestream://d8cac298fc607123cde5315d6091d7b83b63f817
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="M+ DEPORTES", M+ GOLF FHD --> NEW ERA
 acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
@@ -405,14 +405,7 @@ acestream://9be118a64eb603b5eb62be6cf27631d3891b5174
 acestream://872608e734992db636eb79426802cd08f4029afb
 
 
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Esport 3" group-title="DEPORTES", ESPORT 3 FHD --> NEW ERA
-acestream://ca20f93ea5d9c15744e48a21b52598b9fce87425
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Esport 3" group-title="DEPORTES", ESPORT 3 FHD --> NEW ERA
-acestream://181fcc443b953d54b00a1bf6320ccbb097e85d64
-#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="" group-title="DEPORTE INT", FOX DEPORTES AR HD --> NEW ERA
-acestream://f2f318919c0035b8979153599a90597671eeefc3
-#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="" group-title="DEPORTE INT", FOX PREMIUM UFC --> NEW ERA
-acestream://ade70f2c51cca519a4d8de1bb181af6e8532e1e1
+
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL" group-title="DEPORTES", GOL PLAY FHD --> NEW ERA
 acestream://9fb99c40a2c45d5c5342b30626eb56140f980612
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL" group-title="DEPORTES", GOL PLAY FHD --> NEW ERA
@@ -425,7 +418,10 @@ acestream://8df9f39935ddc073a4caafdece64b58a8b59f7d4
 acestream://822e800cc5ffe644b4c10ae3d8f33db235ed8e2b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="DEPORTES", TELEDEPORTE FHD --> NEW ERA
 acestream://2d997da301573c5aba78f969d0d37eb6107941b2
-
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Esport 3" group-title="DEPORTES", ESPORT 3 FHD --> NEW ERA
+acestream://ca20f93ea5d9c15744e48a21b52598b9fce87425
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Esport 3" group-title="DEPORTES", ESPORT 3 FHD --> NEW ERA
+acestream://181fcc443b953d54b00a1bf6320ccbb097e85d64
 
 
 
@@ -609,6 +605,9 @@ acestream://78266c15035d0ad8cbc58f821733931e1de434ab
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="DEPORTE INT", SKY SPORTS MAIN EVENT --> SPORT TV
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="" group-title="DEPORTE INT", FOX DEPORTES AR HD --> NEW ERA
+acestream://f2f318919c0035b8979153599a90597671eeefc3
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="DEPORTE INT", BEIN SPORTS 1 --> NEW LOOP
@@ -848,10 +847,18 @@ acestream://f31555f85bdde1fca8685d9e3a457e5aca5f3bc3
 acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL HD --> NEW LOOP
 acestream://1b348443efc7f0cf4cdf349ac35bbe5d41be6220
-#EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" group-title="UFC", UFC Fight Pass --> ELCANO
+
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/450_1000.jpg" tvg-id="" group-title="DEPORTE INT", FOX PREMIUM UFC --> NEW ERA
+acestream://ade70f2c51cca519a4d8de1bb181af6e8532e1e1
+#EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" group-title="DEPORTE INT", UFC Fight Pass --> ELCANO
 acestream://e935c5bbad7af4af6c88b59c8e6cccbb99fb1bde
-#EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" group-title="UFC", UFC Fight Pass --> ELCANO
+#EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" group-title="DEPORTE INT", UFC Fight Pass --> ELCANO
 acestream://477b3ea6be34bfd669cc35c5cdff8b18a3ad79f8
+
+
+
+
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ALTITUDE SPORTS * --> ELCANO
 acestream://53e83fb6bf17f1fce7b5eccfddc242feb4d0ded4
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ALTITUDE SPORTS FHDp * --> ELCANO
