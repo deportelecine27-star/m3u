@@ -1,47 +1,115 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name=" LALIGA TV HYPERMOTION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION FHD
+#EXTINF:-1 tvg-id="Movistar plus+" tvg-name=" M+ PLUS+ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="LALIGA", M+ PLUS+ FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1298188.ts
+#EXTINF:-1 tvg-id="Movistar plus+" tvg-name=" M+ PLUS+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="LALIGA", M+ PLUS+ HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1298189.ts
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name=" M+ PLUS+ SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="LALIGA", M+ PLUS+ SD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1298190.ts
+#EXTINF:-1 tvg-id="Movistar Plus+ 2" tvg-name=" M+ PLUS+ 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MPLUS2.png" group-title="LALIGA", M+ PLUS+ 2 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1298191.ts
+#EXTINF:-1 tvg-id="Movistar Plus+ 2" tvg-name=" M+ PLUS+ 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MPLUS2.png" group-title="LALIGA", M+ PLUS+ 2 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1298192.ts
+#EXTINF:-1 tvg-id="Movistar Plus+ 2" tvg-name=" M+ PLUS+ 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MPLUS2.png" group-title="LALIGA", M+ PLUS+ 2 SD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1298193.ts
+
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name=" DAZN LALIGA FHD HEVC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LALIGA", DAZN LALIGA FHD HEVC
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/958755.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name=" DAZN LALIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LALIGA", DAZN LALIGA FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320782.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name=" DAZN LALIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LALIGA", DAZN LALIGA HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320781.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN LALIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LALIGA",DAZN LALIGA SD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320792.ts
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name=" DAZN LALIGA 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="LALIGA", DAZN LALIGA 2 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320780.ts
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name=" DAZN LALIGA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="LALIGA", DAZN LALIGA 2 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320779.ts
+#EXTINF:-1 tvg-id="" tvg-name=" DAZN LIGA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL3" group-title="LALIGA", DAZN LIGA 3 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1110508.ts
+#EXTINF:-1 tvg-id="" tvg-name=" DAZN LIGA 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4" group-title="LALIGA", DAZN LIGA 4 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1110509.ts
+#EXTINF:-1 tvg-id="" tvg-name=" DAZN LIGA 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL5" group-title="LALIGA", DAZN LIGA 5 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1110510.ts
+
+
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name=" M+ LALIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA", M+ LALIGA FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165385.ts
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name=" M+ LALIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA", M+ LALIGA HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165392.ts
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name=" M+ LALIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA", M+ LALIGA SD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165393.ts
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name=" M+ LALIGA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="LALIGA", M+ LALIGA 2 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165398.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LALIGA TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="LALIGA", LALIGA TV 3 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/953990.ts
+#EXTINF:-1 tvg-id="" tvg-name=" LALIGA TV 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="LALIGA", LALIGA TV 4 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/953991.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 5" tvg-name=" M+ LALIGA TV 5 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG4" group-title="LALIGA", M+ LALIGA TV 5 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/980273.ts
+#EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-name=" M+ LALIGA TV 6 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG5" group-title="LALIGA", M+ LALIGA TV 6 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/980274.ts
+#EXTINF:-1 tvg-id="" tvg-name=" M+ LALIGA TV 7 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG6" group-title="LALIGA", M+ LALIGA TV 7 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/980275.ts
+#EXTINF:-1 tvg-id="" tvg-name=" M+ LALIGA TV 8 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="LALIGA", M+ LALIGA TV 8 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/980276.ts
+#EXTINF:-1 tvg-id="" tvg-name=" M+ LALIGA TV 9 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="LALIGA", M+ LALIGA TV 9 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/980277.ts
+#EXTINF:-1 tvg-id="" tvg-name=" M+ LALIGA TV 10 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="LALIGA", M+ LALIGA TV 10 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/980278.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="24horas.es" tvg-name=" M LALIGA SMARTBANK FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="LALIGA", M LALIGA SMARTBANK FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320785.ts
+#EXTINF:-1 tvg-id="24horas.es" tvg-name=" M LALIGA SMARTBANK HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="LALIGA", M LALIGA SMARTBANK HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320786.ts
+#EXTINF:-1 tvg-id="24horas.es" tvg-name=" M LALIGA SMARTBANK SD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="LALIGA", M LALIGA SMARTBANK SD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320789.ts
+#EXTINF:-1 tvg-id="24horas.es" tvg-name=" M LALIGA SMARTBANK 1 FHD" tvg-logo="" group-title="LALIGA", M LALIGA SMARTBANK 1 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/325771.ts
+#EXTINF:-1 tvg-id="24horas.es" tvg-name=" M LALIGA SMARTBANK 1 HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="LALIGA", M LALIGA SMARTBANK 1 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320790.ts
+#EXTINF:-1 tvg-id="24horas.es" tvg-name=" M LALIGA SMARTBANK 1 SD" tvg-logo="" group-title="LALIGA", M LALIGA SMARTBANK 1 SD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/325772.ts
+
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name=" LALIGA TV HYPERMOTION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="HYPERMOTION", LIGA HYPERMOTION FHD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/571903.ts
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name=" LALIGA TV HYPERMOTION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION HD
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name=" LALIGA TV HYPERMOTION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="HYPERMOTION", LIGA HYPERMOTION HD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/571904.ts
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name=" LALIGA TV HYPERMOTION SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION SD
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name=" LALIGA TV HYPERMOTION SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="HYPERMOTION", LIGA HYPERMOTION SD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/571905.ts
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name=" LALIGA TV HYPERMOTION 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION 2 FHD
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name=" LALIGA TV HYPERMOTION 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="HYPERMOTION", LIGA HYPERMOTION 2 FHD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114644.ts
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name=" LALIGA TV HYPERMOTION 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION 2 HD
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name=" LALIGA TV HYPERMOTION 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="HYPERMOTION", LIGA HYPERMOTION 2 HD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/571906.ts
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name=" LALIGA TV HYPERMOTION 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION 3 HD
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name=" LALIGA TV HYPERMOTION 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="HYPERMOTION", LIGA HYPERMOTION 3 HD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114646.ts
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4" tvg-name=" LALIGA TV HYPERMOTION 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS4.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION 4 HD
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4" tvg-name=" LALIGA TV HYPERMOTION 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS4.png" group-title="HYPERMOTION", LIGA HYPERMOTION 4 HD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114647.ts
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 5" tvg-name=" LALIGA TV HYPERMOTION 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS5.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION 5 HD
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 5" tvg-name=" LALIGA TV HYPERMOTION 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS5.png" group-title="HYPERMOTION", LIGA HYPERMOTION 5 HD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114648.ts
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 6" tvg-name=" LALIGA TV HYPERMOTION 6 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS6.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION 6 HD
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 6" tvg-name=" LALIGA TV HYPERMOTION 6 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS6.png" group-title="HYPERMOTION", LIGA HYPERMOTION 6 HD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114649.ts
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 7" tvg-name=" LALIGA TV HYPERMOTION 7 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS7.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION 7 HD
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 7" tvg-name=" LALIGA TV HYPERMOTION 7 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS7.png" group-title="HYPERMOTION", LIGA HYPERMOTION 7 HD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114650.ts
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 8" tvg-name=" LALIGA TV HYPERMOTION 8 HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_8_176x122.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION 8 HD
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 8" tvg-name=" LALIGA TV HYPERMOTION 8 HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_8_176x122.png" group-title="HYPERMOTION", LIGA HYPERMOTION 8 HD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114651.ts
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 9" tvg-name=" LALIGA TV HYPERMOTION 9 HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_9_176x122.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION 9 HD
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 9" tvg-name=" LALIGA TV HYPERMOTION 9 HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_9_176x122.png" group-title="HYPERMOTION", LIGA HYPERMOTION 9 HD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114652.ts
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 10" tvg-name=" LALIGA TV HYPERMOTION 10 HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_10_176x122.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION 10 HD
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 10" tvg-name=" LALIGA TV HYPERMOTION 10 HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_10_176x122.png" group-title="HYPERMOTION", LIGA HYPERMOTION 10 HD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114653.ts
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 11" tvg-name=" LALIGA TV HYPERMOTION 11 HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_11_176x122.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION 11 HD
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 11" tvg-name=" LALIGA TV HYPERMOTION 11 HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_11_176x122.png" group-title="HYPERMOTION", LIGA HYPERMOTION 11 HD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114654.ts
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 12" tvg-name=" LALIGA TV HYPERMOTION 12 HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_TV_12_176x122.png" group-title="HYPERMOTION", LALIGA TV HYPERMOTION 12 HD
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 12" tvg-name=" LALIGA TV HYPERMOTION 12 HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_TV_12_176x122.png" group-title="HYPERMOTION", LIGA HYPERMOTION 12 HD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114655.ts
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name=" EUROSPORT 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP" group-title="EUROSPORT", EUROSPORT 1 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/290348.ts
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name=" EUROSPORT 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP" group-title="EUROSPORT", EUROSPORT 1 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/290349.ts
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name=" EUROSPORT 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP" group-title="EUROSPORT", EUROSPORT 1 SD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/290350.ts
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-name=" EUROSPORT 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2" group-title="EUROSPORT", EUROSPORT 2 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/290351.ts
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-name=" EUROSPORT 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2" group-title="EUROSPORT", EUROSPORT 2 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/290352.ts
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-name=" EUROSPORT 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2" group-title="EUROSPORT", EUROSPORT 2 SD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/290353.ts
+
+
+
+
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name=" LIGA DE CAMPEONES FHD HEVC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title=" M+ LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD HEVC
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/262412.ts
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name=" LIGA DE CAMPEONES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title=" M+ LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD
@@ -102,60 +170,29 @@ http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1210194.ts
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1210195.ts
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name=" M+ LALIGA FHD HEVC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA", M+ LALIGA FHD HEVC
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/262413.ts
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name=" M+ LALIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA", M+ LALIGA FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165385.ts
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name=" M+ LALIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA", M+ LALIGA HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165392.ts
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name=" M+ LALIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA", M+ LALIGA SD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165393.ts
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name=" M+ LALIGA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="LALIGA", M+ LALIGA 2 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165398.ts
-#EXTINF:-1 tvg-id="" tvg-name=" LALIGA TV 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="LALIGA", LALIGA TV 3 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/953990.ts
-#EXTINF:-1 tvg-id="" tvg-name=" LALIGA TV 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="LALIGA", LALIGA TV 4 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/953991.ts
-#EXTINF:-1 tvg-id="M+ LaLiga TV 5" tvg-name=" M+ LALIGA TV 5 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG4" group-title="LALIGA", M+ LALIGA TV 5 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/980273.ts
-#EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-name=" M+ LALIGA TV 6 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG5" group-title="LALIGA", M+ LALIGA TV 6 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/980274.ts
-#EXTINF:-1 tvg-id="" tvg-name=" M+ LALIGA TV 7 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG6" group-title="LALIGA", M+ LALIGA TV 7 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/980275.ts
-#EXTINF:-1 tvg-id="" tvg-name=" M+ LALIGA TV 8 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="LALIGA", M+ LALIGA TV 8 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/980276.ts
-#EXTINF:-1 tvg-id="" tvg-name=" M+ LALIGA TV 9 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="LALIGA", M+ LALIGA TV 9 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/980277.ts
-#EXTINF:-1 tvg-id="" tvg-name=" M+ LALIGA TV 10 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG7" group-title="LALIGA", M+ LALIGA TV 10 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/980278.ts
-#EXTINF:-1 tvg-id="24horas.es" tvg-name=" M LALIGA SMARTBANK FHD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="LALIGA", M LALIGA SMARTBANK FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320785.ts
-#EXTINF:-1 tvg-id="24horas.es" tvg-name=" M LALIGA SMARTBANK HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="LALIGA", M LALIGA SMARTBANK HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320786.ts
-#EXTINF:-1 tvg-id="24horas.es" tvg-name=" M LALIGA SMARTBANK SD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="LALIGA", M LALIGA SMARTBANK SD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320789.ts
-#EXTINF:-1 tvg-id="24horas.es" tvg-name=" M LALIGA SMARTBANK 1 FHD" tvg-logo="" group-title="LALIGA", M LALIGA SMARTBANK 1 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/325771.ts
-#EXTINF:-1 tvg-id="24horas.es" tvg-name=" M LALIGA SMARTBANK 1 HD" tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="LALIGA", M LALIGA SMARTBANK 1 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320790.ts
-#EXTINF:-1 tvg-id="24horas.es" tvg-name=" M LALIGA SMARTBANK 1 SD" tvg-logo="" group-title="LALIGA", M LALIGA SMARTBANK 1 SD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/325772.ts
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name=" DAZN LALIGA FHD HEVC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LALIGA", DAZN LALIGA FHD HEVC
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/958755.ts
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name=" DAZN LALIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LALIGA", DAZN LALIGA FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320782.ts
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name=" DAZN LALIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LALIGA", DAZN LALIGA HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320781.ts
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN LALIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LALIGA",DAZN LALIGA SD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320792.ts
-#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name=" DAZN LALIGA 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="LALIGA", DAZN LALIGA 2 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320780.ts
-#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name=" DAZN LALIGA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="LALIGA", DAZN LALIGA 2 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320779.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DAZN LIGA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL3" group-title="LALIGA", DAZN LIGA 3 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1110508.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DAZN LIGA 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4" group-title="LALIGA", DAZN LIGA 4 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1110509.ts
-#EXTINF:-1 tvg-id="" tvg-name=" DAZN LIGA 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL5" group-title="LALIGA", DAZN LIGA 5 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1110510.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="  DAZN MOTOGP FHD" tvg-logo="" group-title="DAZN",DAZN MOTOGP FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1227837.ts
+#EXTINF:-1 tvg-id="" tvg-name="  DAZN MOTOGP HD" tvg-logo="" group-title="DAZN",DAZN MOTOGP HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1227838.ts
+#EXTINF:-1 tvg-id="" tvg-name="  DAZN MOTOGP SD" tvg-logo="" group-title="DAZN",DAZN MOTOGP SD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1227839.ts
+
+
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name=" DAZN FORMULA 1 FHD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN", DAZN FORMULA 1 FHD HEVC
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/958754.ts
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name=" DAZN FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN", DAZN FORMULA 1 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165418.ts
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name=" DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN", DAZN FORMULA 1 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165419.ts
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name=" DAZN FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN", DAZN FORMULA 1 SD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165257.ts
+
+
 #EXTINF:-1 tvg-id="dazn1.es" tvg-name=" DAZN 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN", DAZN 1 FHD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/373766.ts
 #EXTINF:-1 tvg-id="dazn1.es" tvg-name=" DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN", DAZN 1 HD
@@ -192,88 +229,8 @@ http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1302147.ts
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1302146.ts
 #EXTINF:-1 tvg-id="" tvg-name=" DAZN EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="DAZN", DAZN EVENTOS 1
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/844512.ts
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name=" DAZN FORMULA 1 FHD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN F1 - MOTOGP", DAZN FORMULA 1 FHD HEVC
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/958754.ts
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name=" DAZN FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN F1 - MOTOGP", DAZN FORMULA 1 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165418.ts
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name=" DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN F1 - MOTOGP", DAZN FORMULA 1 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165419.ts
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name=" DAZN FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN F1 - MOTOGP", DAZN FORMULA 1 SD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165257.ts
-#EXTINF:-1 tvg-id="alquiler1.es" tvg-name=" ALQUILER 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ PELICULAS", ALQUILER 1 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267808.ts
-#EXTINF:-1 tvg-id="alquiler1.es" tvg-name=" ALQUILER 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ PELICULAS", ALQUILER 1 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/275903.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ PELICULAS", ALQUILER 2 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267809.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ PELICULAS", ALQUILER 2 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/275904.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ PELICULAS", ALQUILER 3 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267810.ts
-#EXTINF:-1 tvg-id="alquiler3.es" tvg-name=" ALQUILER 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ PELICULAS", ALQUILER 3 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/277422.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ PELICULAS", ALQUILER 4 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267811.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6a7c9182a22ffa6d277b8e3e7d433b8b.png" group-title="M+ PELICULAS", ALQUILER 4 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/277423.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ PELICULAS", ALQUILER 5 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267812.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 10 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bebc225383c41e3b57a09377b383d0cc.png" group-title="M+ PELICULAS", ALQUILER 10 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267837.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 10 HD" tvg-logo="" group-title="M+ PELICULAS", ALQUILER 10 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/287103.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 6 FHD" tvg-logo="s:1:/images/_5Z91KCcyxhlvEEwnFERcyd8TbrsKvgD8-kNz-3-SWt0HH1ZoDy-iwsRQYI-Sp8V.png" group-title="M+ PELICULAS", ALQUILER 6 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/289390.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a6e53280ad52eb8d0e28180391476d6.png" group-title="M+ PELICULAS", ALQUILER 6 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267842.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6b67d9f90addab3b6bf844a123616b8c.png" group-title="M+ PELICULAS", ALQUILER 7 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267845.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 9 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93b2ba8ff62cdb4e62e16fb148b20114.png" group-title="M+ PELICULAS", ALQUILER 9 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267848.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 9 HD" tvg-logo="" group-title="M+ PELICULAS", ALQUILER 9 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/283122.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 11 HD" tvg-logo="" group-title="M+ PELICULAS", ALQUILER 11 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/277781.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 12 FHD" tvg-logo="" group-title="M+ PELICULAS", ALQUILER 12 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/277782.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 8 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a6e53280ad52eb8d0e28180391476d6.png" group-title="M+ PELICULAS", ALQUILER 8 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/277789.ts
-#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 8 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a6e53280ad52eb8d0e28180391476d6.png" group-title="M+ PELICULAS", ALQUILER 8 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/277790.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 1 FHD" tvg-logo="" group-title="M+ PELICULAS", TAQUILLA 1 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279375.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 1 HD" tvg-logo="" group-title="M+ PELICULAS", TAQUILLA 1 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279332.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 10 HD" tvg-logo="" group-title="M+ PELICULAS", TAQUILLA 10 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279333.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="M+ PELICULAS", TAQUILLA 2 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/293864.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 2 HD" tvg-logo="" group-title="M+ PELICULAS", TAQUILLA 2 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279334.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="M+ PELICULAS", TAQUILLA 3 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/293865.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 3 HD" tvg-logo="" group-title="M+ PELICULAS", TAQUILLA 3 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279335.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 4 FHD" tvg-logo="" group-title="M+ PELICULAS", TAQUILLA 4 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279377.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 4 HD" tvg-logo="" group-title="M+ PELICULAS", TAQUILLA 4 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279336.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 5 HD" tvg-logo="" group-title="M+ PELICULAS", TAQUILLA 5 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279337.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 6 HD" tvg-logo="" group-title="M+ PELICULAS", TAQUILLA 6 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279338.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 7 HD" tvg-logo="" group-title="M+ PELICULAS", TAQUILLA 7 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279339.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 8 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="M+ PELICULAS", TAQUILLA 8 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279340.ts
-#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="M+ PELICULAS", TAQUILLA 9 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279378.ts
-#EXTINF:-1 tvg-id="eltorotv.es" tvg-name=" EL TORO TV HD" tvg-logo="https://eltorotv.com/wp-content/uploads/2020/03/logo-eltorotv_blanco.png" group-title="ONETORO", EL TORO TV HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/321232.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MLS MESSI" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="ONETORO, MLS MESSI
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/585364.ts
-#EXTINF:-1 tvg-id="" tvg-name=" MLS MESSI Pro" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="ONETORO, MLS MESSI Pro
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/585369.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="FINETWORK DAZN 1" tvg-logo="https://iili.io/HNc5vWu.png" group-title="DAZN LIGA F",FINETWORK DAZN 1
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/648490.ts
 #EXTINF:-1 tvg-id="" tvg-name="FINETWORK DAZN 2" tvg-logo="https://iili.io/HNc58ib.png" group-title="DAZN LIGA F",FINETWORK DAZN 2
@@ -284,6 +241,97 @@ http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/648492.ts
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/648493.ts
 #EXTINF:-1 tvg-id="" tvg-name="FINETWORK DAZN 5" tvg-logo="https://iili.io/HNc5g0x.png" group-title="DAZN LIGA F",FINETWORK DAZN 5
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/648494.ts
+
+
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name=" EUROSPORT 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP" group-title="EUROSPORT", EUROSPORT 1 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/290348.ts
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name=" EUROSPORT 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP" group-title="EUROSPORT", EUROSPORT 1 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/290349.ts
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name=" EUROSPORT 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP" group-title="EUROSPORT", EUROSPORT 1 SD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/290350.ts
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name=" EUROSPORT 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2" group-title="EUROSPORT", EUROSPORT 2 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/290351.ts
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name=" EUROSPORT 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2" group-title="EUROSPORT", EUROSPORT 2 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/290352.ts
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name=" EUROSPORT 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2" group-title="EUROSPORT", EUROSPORT 2 SD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/290353.ts
+
+
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name=" ALQUILER 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ ALQUILER", ALQUILER 1 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267808.ts
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name=" ALQUILER 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ ALQUILER", ALQUILER 1 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/275903.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ ALQUILER", ALQUILER 2 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267809.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ ALQUILER", ALQUILER 2 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/275904.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ ALQUILER", ALQUILER 3 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267810.ts
+#EXTINF:-1 tvg-id="alquiler3.es" tvg-name=" ALQUILER 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ ALQUILER", ALQUILER 3 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/277422.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ ALQUILER", ALQUILER 4 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267811.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6a7c9182a22ffa6d277b8e3e7d433b8b.png" group-title="M+ ALQUILER", ALQUILER 4 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/277423.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="M+ ALQUILER", ALQUILER 5 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267812.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 10 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bebc225383c41e3b57a09377b383d0cc.png" group-title="M+ ALQUILER", ALQUILER 10 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267837.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 10 HD" tvg-logo="" group-title="M+ ALQUILER", ALQUILER 10 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/287103.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 6 FHD" tvg-logo="s:1:/images/_5Z91KCcyxhlvEEwnFERcyd8TbrsKvgD8-kNz-3-SWt0HH1ZoDy-iwsRQYI-Sp8V.png" group-title="M+ ALQUILER", ALQUILER 6 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/289390.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a6e53280ad52eb8d0e28180391476d6.png" group-title="M+ ALQUILER", ALQUILER 6 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267842.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6b67d9f90addab3b6bf844a123616b8c.png" group-title="M+ ALQUILER", ALQUILER 7 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267845.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 9 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93b2ba8ff62cdb4e62e16fb148b20114.png" group-title="M+ ALQUILER", ALQUILER 9 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/267848.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 9 HD" tvg-logo="" group-title="M+ ALQUILER", ALQUILER 9 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/283122.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 11 HD" tvg-logo="" group-title="M+ ALQUILER", ALQUILER 11 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/277781.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 12 FHD" tvg-logo="" group-title="M+ ALQUILER", ALQUILER 12 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/277782.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 8 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a6e53280ad52eb8d0e28180391476d6.png" group-title="M+ ALQUILER", ALQUILER 8 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/277789.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ALQUILER 8 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a6e53280ad52eb8d0e28180391476d6.png" group-title="M+ ALQUILER", ALQUILER 8 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/277790.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 1 FHD" tvg-logo="" group-title="M+ ALQUILER", TAQUILLA 1 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279375.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 1 HD" tvg-logo="" group-title="M+ ALQUILER", TAQUILLA 1 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279332.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 10 HD" tvg-logo="" group-title="M+ ALQUILER", TAQUILLA 10 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279333.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="M+ ALQUILER", TAQUILLA 2 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/293864.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 2 HD" tvg-logo="" group-title="M+ ALQUILER", TAQUILLA 2 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279334.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="M+ ALQUILER", TAQUILLA 3 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/293865.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 3 HD" tvg-logo="" group-title="M+ ALQUILER", TAQUILLA 3 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279335.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 4 FHD" tvg-logo="" group-title="M+ ALQUILER", TAQUILLA 4 FHD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279377.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 4 HD" tvg-logo="" group-title="M+ ALQUILER", TAQUILLA 4 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279336.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 5 HD" tvg-logo="" group-title="M+ ALQUILER", TAQUILLA 5 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279337.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 6 HD" tvg-logo="" group-title="M+ ALQUILER", TAQUILLA 6 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279338.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 7 HD" tvg-logo="" group-title="M+ ALQUILER", TAQUILLA 7 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279339.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 8 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="M+ ALQUILER", TAQUILLA 8 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279340.ts
+#EXTINF:-1 tvg-id="" tvg-name=" TAQUILLA 9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="M+ ALQUILER", TAQUILLA 9 HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/279378.ts
+#EXTINF:-1 tvg-id="eltorotv.es" tvg-name=" EL TORO TV HD" tvg-logo="https://eltorotv.com/wp-content/uploads/2020/03/logo-eltorotv_blanco.png" group-title="ONETORO", EL TORO TV HD
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/321232.ts
+#EXTINF:-1 tvg-id="" tvg-name=" MLS MESSI" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="ONETORO, MLS MESSI
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/585364.ts
+#EXTINF:-1 tvg-id="" tvg-name=" MLS MESSI Pro" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/mls-logo-png-transparent.png" group-title="ONETORO, MLS MESSI Pro
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/585369.ts
+
 #EXTINF:-1 tvg-id="1+1 Internacional.es" tvg-name="M+ SUPERCOPA FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCOPA" group-title="M+ SUPERCOPA",ES M+ SUPERCOPA FHD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/954611.ts
 #EXTINF:-1 tvg-id="1+1 Internacional.es" tvg-name="M+ SUPERCOPA HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCOPA" group-title="M+ SUPERCOPA",ES M+ SUPERCOPA HD
@@ -450,12 +498,6 @@ http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1224615.ts
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1224616.ts
 #EXTINF:-1 tvg-id="" tvg-name=" DAZN ACB 10 FHD" tvg-logo="" group-title="DAZN ACB basketball", DAZN ACB 10 FHD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1224617.ts
-#EXTINF:-1 tvg-id="" tvg-name="  DAZN MOTOGP FHD" tvg-logo="" group-title="DAZN F1 - MOTOGP",  DAZN MOTOGP FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1227837.ts
-#EXTINF:-1 tvg-id="" tvg-name="  DAZN MOTOGP HD" tvg-logo="" group-title="DAZN F1 - MOTOGP",  DAZN MOTOGP HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1227838.ts
-#EXTINF:-1 tvg-id="" tvg-name="  DAZN MOTOGP SD" tvg-logo="" group-title="DAZN F1 - MOTOGP",  DAZN MOTOGP SD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1227839.ts
 #EXTINF:-1 tvg-id="" tvg-name=" FERIA DE MADRID HD" tvg-logo="" group-title="ONETORO", FERIA DE MADRID HD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1272315.ts
 
@@ -1324,18 +1366,6 @@ http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1296861.ts
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1296862.ts
 #EXTINF:-1 tvg-id="BBC Food" tvg-name=" BBC FOOD SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBFOO.png" group-title="ENTRETENIMIENTO", BBC FOOD SD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1296863.ts
-#EXTINF:-1 tvg-id="Movistar plus+" tvg-name=" M+ PLUS+ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ENTRETENIMIENTO", M+ PLUS+ FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1298188.ts
-#EXTINF:-1 tvg-id="Movistar plus+" tvg-name=" M+ PLUS+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ENTRETENIMIENTO", M+ PLUS+ HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1298189.ts
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name=" M+ PLUS+ SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ENTRETENIMIENTO", M+ PLUS+ SD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1298190.ts
-#EXTINF:-1 tvg-id="Movistar Plus+ 2" tvg-name=" M+ PLUS+ 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MPLUS2.png" group-title="ENTRETENIMIENTO", M+ PLUS+ 2 FHD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1298191.ts
-#EXTINF:-1 tvg-id="Movistar Plus+ 2" tvg-name=" M+ PLUS+ 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MPLUS2.png" group-title="ENTRETENIMIENTO", M+ PLUS+ 2 HD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1298192.ts
-#EXTINF:-1 tvg-id="Movistar Plus+ 2" tvg-name=" M+ PLUS+ 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MPLUS2.png" group-title="ENTRETENIMIENTO", M+ PLUS+ 2 SD
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1298193.ts
 #EXTINF:-1 tvg-id="" tvg-name=" TRAVELXP FHD" tvg-logo="https://contenidostv.b-cdn.net/images/travel_512.png" group-title="ENTRETENIMIENTO", TRAVELXP FHD
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1296864.ts
 #EXTINF:-1 tvg-id="" tvg-name=" TRAVELXP HD" tvg-logo="https://contenidostv.b-cdn.net/images/travel_512.png" group-title="ENTRETENIMIENTO", TRAVELXP HD
