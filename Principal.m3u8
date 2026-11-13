@@ -907,7 +907,7 @@ http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1293910.m3u8
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="TDT",LA SEXTA
 http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=107592&extension=m3u8&play_token=SSCuLZHzsG
              
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="TDT",LA SEXTA
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="TDT",LA SEXTA (Oficial)
 https://atres-live.atresmedia.com/8141f903ac40e5615d5fd75010873b5d9196625e_ES_1794601714_1794630454/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8 
 
   
