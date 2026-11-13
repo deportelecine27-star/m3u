@@ -2,26 +2,20 @@
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Dazn LaLiga" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="FUTBOL",Dazn LaLiga
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/27160.m3u8
-         
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/27160.m3u8         
 #EXTINF:-1 tvg-id="ext" tvg-name="Dazn LaLiga" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="FUTBOL",Dazn LaLiga
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320782.m3u8     
-     
 #EXTINF:-1 tvg-id="ext" tvg-name="Dazn LaLiga" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="FUTBOL",Dazn LaLiga
 http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=2139018&extension=m3u8&play_token=NedrGyby1u     
-     
 #EXTINF:-1 tvg-id="ext" tvg-name="Dazn LaLiga" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="FUTBOL",Dazn LaLiga
 http://31.43.191.125:8080/live/vip9781785523997/cf645f65dca1/97138.m3u8 
-     
-     
+         
 #EXTINF:-1 tvg-id="ext" tvg-name="Dazn LaLiga" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="FUTBOL",Dazn LaLiga (VPN)
 http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/57359.m3u8 
-     
        
      
 #EXTINF:-1 tvg-id="ext" tvg-name="Dazn LaLiga" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",Dazn LaLiga (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=3a03dc436b15f1d5d7b285c80b982da02502c26d 
-     
 #EXTINF:-1 tvg-id="ext" tvg-name="Dazn LaLiga" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",Dazn LaLiga (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8c0fa8c0f1be146dcc64a94e37c64993df86c72a 
      
@@ -29,15 +23,11 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=8c0fa8c0f1be146dcc64a94e37c64993df86c
 
      
 #EXTINF:-1 tvg-id="ext" tvg-name="Dazn LaLiga 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74CE_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",Dazn LaLiga 2
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/27161.m3u8
-     
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/27161.m3u8    
 #EXTINF:-1 tvg-id="ext" tvg-name="Dazn LaLiga 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74CE_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",Dazn LaLiga 2
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320780.m3u8 
-          
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/320780.m3u8          
 #EXTINF:-1 tvg-id="ext" tvg-name="Dazn LaLiga 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74CE_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",Dazn LaLiga 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1547249&extension=m3u8&play_token=whBsmvo6g2     
-
-
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1547249&extension=m3u8&play_token=whBsmvo6g2
     
 #EXTINF:-1 tvg-id="ext" tvg-name="Dazn LaLiga 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74CE_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",Dazn LaLiga 2 (VPN)
 http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/57476.m3u8
@@ -59,28 +49,22 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=7cf306fc097deca7005b220b1f6206bd654b5
      
      
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="FUTBOL",M+ LaLiga
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/435.m3u8       
-
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/435.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="FUTBOL",M+ LaLiga
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165393.m3u8     
-           
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165393.m3u8           
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="FUTBOL",M+ LaLiga
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=107590&extension=m3u8&play_token=SSCuLZHzsG 
-
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=107590&extension=m3u8&play_token=SSCuLZHzsG
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="FUTBOL",M+ LaLiga
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=915236&extension=m3u8&play_token=gd4NdwiWrc     
-
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=915236&extension=m3u8&play_token=gd4NdwiWrc
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="FUTBOL",M+ LaLiga
-http://31.43.191.125:8080/live//vip9781785523997/cf645f65dca1/254.m3u8     
-     
+http://31.43.191.125:8080/live//vip9781785523997/cf645f65dca1/254.m3u8  
 
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="FUTBOL",M+ LaLiga (VPN)
 http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/252.m3u8
      
              
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ LaLiga (ACE)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38       
-          
+http://127.0.0.1:6878/ace/manifest.m3u8?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ LaLiga (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=623f9ce3c4adfcd9771da41a6cc433632cf2c680       
 
@@ -90,19 +74,14 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=623f9ce3c4adfcd9771da41a6cc433632cf2c
      
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7853_41A_1_C00000_0_0_0.png" group-title="FUTBOL",M+ LaLiga 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/30606.m3u8
-     
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7853_41A_1_C00000_0_0_0.png" group-title="FUTBOL",M+ LaLiga 2
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165398.m3u8   
-
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165398.m3u8 
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7853_41A_1_C00000_0_0_0.png" group-title="FUTBOL",M+ LaLiga 2
 http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=477160&extension=m3u8&play_token=gd4NdwiWrc      
-           
-
-     
+                
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7853_41A_1_C00000_0_0_0.png" group-title="FUTBOL",M+ LaLiga 2 (VPN)
-http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/147117.m3u8     
-     
-     
+http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/147117.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 2" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ LaLiga 2 (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b8eb9c9868d487402569bba2d97a8af113d033fe    
      
@@ -110,96 +89,64 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b8eb9c9868d487402569bba2d97a8af113d03
 
      
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" group-title="FUTBOL",M+ LaLiga 3
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/30605.m3u8      
-     
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/30605.m3u8  
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" group-title="FUTBOL",M+ LaLiga 3
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165398.m3u8    
-          
-     
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165398.m3u8 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" group-title="FUTBOL",M+ LaLiga 3 (VPN)
-http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/147118.m3u8  
-     
+http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/147118.m3u8 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 3" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ LaLiga 3 (ACE)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5d75fbc6900598e32cfe9a3dae5517d4d69d75ba      
- 
-
-     
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5d75fbc6900598e32cfe9a3dae5517d4d69d75ba 
      
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" group-title="FUTBOL",M+ LaLiga 4
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/30604.m3u8      
-
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/30604.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" group-title="FUTBOL",M+ LaLiga 4
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165398.m3u8 
-     
    
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" group-title="FUTBOL",M+ LaLiga 4 (VPN)
 http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/147119.m3u8
      
-     
-     
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 4" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ LaLiga 4 (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=22178d72e0f255dedd7e56f9474fea879289a6f1       
-     
-     
-                      
-    
-     
-     
+          
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Movistar+" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D4_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",Movistar+
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/26663.m3u8
- 
 #EXTINF:-1 tvg-id="ext" tvg-name="Movistar+" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D4_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",Movistar+
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1298189.m3u8      
-        
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1298189.m3u8     
 #EXTINF:-1 tvg-id="ext" tvg-name="Movistar+" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D4_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",Movistar+
 http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1547216&extension=m3u8&play_token=whBsmvo6g2
-         
-
      
 #EXTINF:-1 tvg-id="ext" tvg-name="Movistar+" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D4_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",Movistar+ (VPN)
 http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/57285.m3u8     
           
    
 #EXTINF:-1 tvg-id="ext" tvg-name="Movistar+" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Plus  (ACE)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70      
-   
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 #EXTINF:-1 tvg-id="ext" tvg-name="Movistar+" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Plus  (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fa931cbc87dc9d66fdd30a9644e054b403960056      
 
      
-     
 #EXTINF:-1 tvg-id="ext" tvg-name="Movistar+ 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D4_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",Movistar+ 2
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/26665.m3u8      
-     
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/26665.m3u8 
 #EXTINF:-1 tvg-id="ext" tvg-name="Movistar+" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D4_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",Movistar+ 2
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/646237.m3u8 
-     
      
 #EXTINF:-1 tvg-id="ext" tvg-name="Movistar+ 2" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",Movistar+ 2 (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003 
      
      
      
-     
-     
-     
-     
 #EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D6_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",LIGA HYPERMOTION
-http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/27164.m3u8   
-
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/27164.m3u8 
 #EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D6_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",LIGA HYPERMOTION
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/571903.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D6_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",LIGA HYPERMOTION
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=2078956&extension=m3u8&play_token=HBsO5zmOwZ      
-            
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=2078956&extension=m3u8&play_token=HBsO5zmOwZ 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D6_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",LIGA HYPERMOTION (VPN)
 http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/25128.m3u8
-     
               
 #EXTINF:-1 tvg-id="ext" tvg-name="Movistar+" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",LIGA HYPERMOTION (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2c54a4def58f41fc0d2163450a63f12955b656aa 
@@ -208,95 +155,58 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=2c54a4def58f41fc0d2163450a63f12955b65
      
 #EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_75FA_408_1_C00000_0_0_0.png" group-title="FUTBOL",LIGA HYPERMOTION 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/27194.m3u8
-     
 #EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_75FA_408_1_C00000_0_0_0.png" group-title="FUTBOL",LIGA HYPERMOTION 2
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114644.m3u8      
-      
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114644.m3u8 
 #EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_75FA_408_1_C00000_0_0_0.png" group-title="FUTBOL",LIGA HYPERMOTION 2
 http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=2078955&extension=m3u8&play_token=IIaSYaiGPt
-     
-     
- 
+      
 #EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_75FA_408_1_C00000_0_0_0.png" group-title="FUTBOL",LIGA HYPERMOTION 2 (VPN)
 http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/25953.m3u8 
-     
         
 #EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION 2" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",LIGA HYPERMOTION 2 (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=709075831bf5c41ed0a20dfbd640aab6c28971f8 
      
-     
        
 #EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION 3" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_7606_408_1_C00000_0_0_0.png" group-title="FUTBOL",LIGA HYPERMOTION 3
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/27195.m3u8
-     
 #EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION 3" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_7606_408_1_C00000_0_0_0.png" group-title="FUTBOL",LIGA HYPERMOTION 3
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114645.m3u8      
-      
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1114645.m3u8 
 #EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION 3" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_7606_408_1_C00000_0_0_0.png" group-title="FUTBOL",LIGA HYPERMOTION 3
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=2078956&extension=m3u8&play_token=IIaSYaiGPt
-     
-  
- 
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=2078956&extension=m3u8&play_token=IIaSYaiGPt 
      
 #EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION 3" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_7606_408_1_C00000_0_0_0.png" group-title="FUTBOL",LIGA HYPERMOTION 3 (VPN)
-http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/25954.m3u8           
-     
-     
-
-     
+http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/25954.m3u8 
      
 
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78B4_3EC_1_C00000_0_0_0.png" group-title="FUTBOL",M+ Liga de Campeones
-http://cb13d0a1c0d4b24e22dfe0f9fe95eb52.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/445.m3u8  
-          
+http://cb13d0a1c0d4b24e22dfe0f9fe95eb52.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/445.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78B4_3EC_1_C00000_0_0_0.png" group-title="FUTBOL",M+ Liga de Campeones
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/246282.m3u8 
-     
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78B4_3EC_1_C00000_0_0_0.png" group-title="FUTBOL",M+ Liga de Campeones
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1777911&extension=m3u8&play_token=IIaSYaiGPt   
-     
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1777911&extension=m3u8&play_token=IIaSYaiGPt
 
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78B4_3EC_1_C00000_0_0_0.png" group-title="FUTBOL",M+ Liga de Campeones (VPN)
 http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/57560.m3u8
      
-     
-     
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Liga de Campeones (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
-  
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Liga de Campeones (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439 
-       
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Liga de Campeones (ACE)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370   
-
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Liga de Campeones (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-  
-    
-
-     
-     
-
-
      
      
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D5_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",M+ Liga de Campeones 2
 http://cb13d0a1c0d4b24e22dfe0f9fe95eb52.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/439.m3u8
-    
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D5_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",M+ Liga de Campeones 2
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165365.m3u8
-     
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D5_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",M+ Liga de Campeones 2
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1777910&extension=m3u8&play_token=IIaSYaiGPt      
-    
-          
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1777910&extension=m3u8&play_token=IIaSYaiGPt
 
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D5_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",M+ Liga de Campeones 2 (VPN)
-http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/58115.m3u8 
-     
-     
-      
+http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/58115.m3u8
   
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 2" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Liga de Campeones 2 (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea          
@@ -311,80 +221,57 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=e7d8cae7f693fe46e89bbf74820caac9ffb32
      
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="FUTBOL",M+ Liga de Campeones 3
-http://cb13d0a1c0d4b24e22dfe0f9fe95eb52.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/440.m3u8 
-          
+http://cb13d0a1c0d4b24e22dfe0f9fe95eb52.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/440.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="FUTBOL",M+ Liga de Campeones 3
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/282470.m3u8 
-
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/282470.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="FUTBOL",M+ Liga de Campeones 3
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1777902&extension=m3u8&play_token=IIaSYaiGPt  
- 
- 
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1777902&extension=m3u8&play_token=IIaSYaiGPt 
      
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="FUTBOL",M+ Liga de Campeones 3 (VPN)
-http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/58116.m3u8   
-     
+http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/58116.m3u8
     
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 3" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Liga de Campeones 3 (ACE)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373  
-     
+http://127.0.0.1:6878/ace/manifest.m3u8?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373 
  
      
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="FUTBOL",M+ Liga de Campeones 4
-http://cb13d0a1c0d4b24e22dfe0f9fe95eb52.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/31127.m3u8       
-      
-#EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="FUTBOL",M+ Liga de Campeones 4http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165367.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="FUTBOL",M+ Liga de Campeones 4http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1777901&extension=m3u8&play_token=IIaSYaiGPt        
-      
-      
+http://cb13d0a1c0d4b24e22dfe0f9fe95eb52.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/31127.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="FUTBOL",M+ Liga de Campeones 4
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/165367.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="FUTBOL",M+ Liga de Campeones 4
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1777901&extension=m3u8&play_token=IIaSYaiGPt
      
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="FUTBOL",M+ Liga de Campeones 4 (VPN)
-http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/5665.m3u8     
-    
+http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/5665.m3u8 
           
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 4" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Liga de Campeones 4 (ACE)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661       
-     
-     
+http://127.0.0.1:6878/ace/manifest.m3u8?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661 
      
    
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="FUTBOL",M+ Liga de Campeones 5
-http://cb13d0a1c0d4b24e22dfe0f9fe95eb52.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/31129.m3u8       
-   
+http://cb13d0a1c0d4b24e22dfe0f9fe95eb52.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/31129.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="FUTBOL",M+ Liga de Campeones 5
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/282460.m3u8  
-   
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/282460.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="FUTBOL",M+ Liga de Campeones 5
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1777900&extension=m3u8&play_token=IIaSYaiGPt      
- 
-
-     
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1777900&extension=m3u8&play_token=IIaSYaiGPt
      
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="FUTBOL",M+ Liga de Campeones 5 (VPN)
 http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/5666.m3u8
-      
      
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 5" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Liga de Campeones 5 (ACE)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3e430d14ef1cf1c147c7b06332081291e05a1431         
-     
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3e430d14ef1cf1c147c7b06332081291e05a1431 
 
-     
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" group-title="FUTBOL",M+ Liga de Campeones 6
-http://cb13d0a1c0d4b24e22dfe0f9fe95eb52.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/31154.m3u8       
-        
-#EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" group-title="FUTBOL",M+ Liga de Campeones 6 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/282462.m3u8  
-     
+http://cb13d0a1c0d4b24e22dfe0f9fe95eb52.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/31154.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" group-title="FUTBOL",M+ Liga de Campeones 6 
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/282462.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" group-title="FUTBOL",M+ Liga de Campeones 6
-http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1777899&extension=m3u8&play_token=IIaSYaiGPt  
-     
-     
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1777899&extension=m3u8&play_token=IIaSYaiGPt
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" group-title="FUTBOL",M+ Liga de Campeones 6 (VPN)
 http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/5667.m3u8
- 
-     
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" group-title="FUTBOL",M+ Liga de Campeones 7
 http://en.prmuim.com:8080/live/PF53G9a8yfUk/n3eG57wwQuKY/27127.m3u8    
          
@@ -411,8 +298,7 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL
 
      
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTOGP" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" group-title="DAZN",DAZN MOTOGP (VPN)
-http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/70905.m3u8      
-     
+http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/70905.m3u8     
      
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTOGP" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="DAZN",DAZN MOTOGP (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=002ebb242685b729fd1235fc24c93110593343a6     
@@ -563,15 +449,20 @@ http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL
      
      
      
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://iili.io/HNc5vWu.png" group-title="DAZN",Dazn Liga Femenina 1 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/648490.m3u8  
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://iili.io/HNc5vWu.png" group-title="DAZN",Dazn Liga Femenina 1 
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/648490.m3u8  
          
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://iili.io/HNc5vWu.png" group-title="DAZN",Dazn Liga Femenina 2 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/648491.m3u8 
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://iili.io/HNc5vWu.png" group-title="DAZN",Dazn Liga Femenina 2 
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/648491.m3u8 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://iili.io/HNc5vWu.png" group-title="DAZN",Dazn Liga Femenina 3 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/648492.m3u8 
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://iili.io/HNc5vWu.png" group-title="DAZN",Dazn Liga Femenina 3 
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/648492.m3u8 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://iili.io/HNc5vWu.png" group-title="DAZN",Dazn Liga Femenina 4 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/648493.m3u8  
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://iili.io/HNc5vWu.png" group-title="DAZN",Dazn Liga Femenina 4 
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/648493.m3u8  
 
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://iili.io/HNc5vWu.png" group-title="DAZN",Dazn Liga Femenina 5 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/648494.m3u8  
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://iili.io/HNc5vWu.png" group-title="DAZN",Dazn Liga Femenina 5 
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/648494.m3u8  
   
   
      
@@ -581,15 +472,20 @@ http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152694.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 2
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152695.m3u8
      
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 3 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152696.m3u8 
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 3 
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152696.m3u8 
           
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 4 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152697.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 4 
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152697.m3u8
      
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 5 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152698.m3u8 
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 5 
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152698.m3u8 
      
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 6 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152699.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 6 
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152699.m3u8
      
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 7 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152700.m3u8 
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 7 
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152700.m3u8 
      
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 8 
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152701.m3u8
@@ -600,7 +496,8 @@ http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152702.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 10
 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152703.m3u8
      
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 11 http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152704.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="https://logowik.com/content/uploads/images/dazn5171.jpg" group-title="DAZN",Dazn Baloncesto 11 
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1152704.m3u8
 
      
 
@@ -619,8 +516,7 @@ http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/57481.m3u8
      
       
 #EXTINF:-1 tvg-id="ext" tvg-name="Deportes" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="Deportes",M+ Deportes (ACE)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a       
-
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 #EXTINF:-1 tvg-id="ext" tvg-name="Deportes" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="Deportes",M+ Deportes (ACE)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5      
      
@@ -819,7 +715,8 @@ https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr_720.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
     
-#EXTINF:-1 tvg-id="ext" tvg-name="Deportes" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEX-rSudmXgyfEq-GPVnZfBS5gjHAxAyKOm66Ve4yUst1dG3v953PqSpNwmysqSYfTREjwS0VhK1711po_IswnFX2H5VyQF6XrLcq5VrCZOacEa51f-hfG6D0_Ccw5NtIleOEYl6v9QoqI/s1600/images+%25281%2529.jpg" group-title="Deportes",Sevilla TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Deportes" tvg-logo="https://mediaverse.sevillafc.hiway.media/image/681a142a/AAFF%20RGB%20Televisi%C3%B3n%20Sevilla%20FC_6_0.jpg" 
+group-title="Deportes",Sevilla TV
 http://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8  
  
 #EXTINF:-1 tvg-id="ext" tvg-name="Deportes" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BETISTV.png" group-title="Deportes",Betis TV
@@ -934,3 +831,72 @@ http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1975899&
   
 #EXTINF:-1 tvg-id="Energy.es" tvg-name="ENERGY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="TDT",ENERGY (VPN)
 http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/5603.m3u8   
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="rtve", 24h
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
+        
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",1
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve01_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",2
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve02_main_720.m3u8 
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",3
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve03_main_720.m3u8 
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",4
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve04_main_720.m3u8 
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",5
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve05_main_720.m3u8 
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",6
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve06_main_720.m3u8 
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",7
+https://rtvelivestream.rtve.es/eventual/oca/irtve07_main_720.m3u8 
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",8
+https://rtvelivestream.rtve.es/eventual/oca/irtve08_main_720.m3u8 
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",9
+https://rtvelivestream.rtve.es/eventual/oca/irtve09_main_720.m3u8 
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",10
+https://rtvelivestream.rtve.es/eventual/oca/irtve10_main_720.m3u8      
+         
+     
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",11 
+https://rtvelivestream.rtve.es/eventual/oca/irtve11_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",12
+https://rtvelivestream.rtve.es/eventual/oca/irtve12_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",13
+https://rtvelivestream.rtve.es/eventual/oca/irtve13_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",14
+https://rtvelivestream.rtve.es/eventual/oca/irtve14_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",15
+https://rtvelivestream.rtve.es/eventual/oca/irtve15_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",16 
+https://rtvelivestream.rtve.es/eventual/oca/irtve16_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",17
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve17_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",18 
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve18_main_720.m3u8 
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",18
+https://rtvelivestream.rtve.es/eventual/oca/irtve18_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",19
+https://rtvelivestream.rtve.es/eventual/oca/irtve19_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",20
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve20_main_720.m3u8  
+
+     
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",21 
+https://rtvelivestream.rtve.es/eventual/oca/irtve21_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",22
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve22_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",22
+https://rtvelivestream.rtve.es/eventual/oca/irtve22_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",23
+https://rtvelivestream.rtve.es/eventual/oca/irtve23_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",24
+https://rtvelivestream.rtve.es/eventual/oca/irtve24_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",25
+https://rtvelivestream.rtve.es/eventual/oca/irtve25_main_720.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="rtve" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RtvePlay.png" group-title="rtve",26 
+https://rtvelivestream.rtve.es/eventual/oca/irtve26_main_720.m3u8
