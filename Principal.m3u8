@@ -829,4 +829,108 @@ https://streamer.zapitv.com/betis/index.mpd
 https://cdn307.fractalmedia.es/live317/hls/cudtv/master.m3u8
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TDT" tvg-name="LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="TDT",LA 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_720.m3u8          
+
+#EXTINF:-1 tvg-id="TDT" tvg-name="LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="TDT",LA 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_720.m3u8 
+  
+#EXTINF:-1 tvg-id="0" tvg-name="ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="TDT",ANTENA 3
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/348.m3u8 
+   
+#EXTINF:-1 tvg-id="0" tvg-name="ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="TDT",ANTENA 3
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/321105.m3u8
+
+#EXTINF:-1 tvg-id="0" tvg-name="ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="TDT",ANTENA 3
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1547374&extension=m3u8&play_token=wtgZKfgBLc
+ 
+    
+#EXTINF:-1 tvg-id="0" tvg-name="ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="TDT",ANTENA 3 (VPN)
+http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/5555.m3u8  
+  
+  
+#EXTINF:-1 tvg-id="ext" tvg-name="ANTENA 3" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="TDT",ANTENA 3 (ACE)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=c5b1bb99bdee549885d4d680cafbdd0a026239f5  
+  
+  
+  
+
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="TDT",CUATRO
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/351.m3u8  
+  
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="TDT",CUATRO
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1293904.m3u8   
+  
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="TDT",CUATRO
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=107610&extension=m3u8&play_token=wtgZKfgBLc
+                              
+  
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="TDT",CUATRO (VPN)
+http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/5588.m3u8
+        
+#EXTINF:-1 tvg-id="ext" tvg-name="CUATRO" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="TDT",CUATRO (ACE)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=da60cf19fab0b9e23aab83bb37d61e8b8c3b7655 
+  
+  
+
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="TDT",TELECINCO
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/374.m3u8
+         
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="TDT",TELECINCO
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1293907.m3u8 
+
+
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="TDT",TELECINCO (VPN)
+http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/5734.m3u8                             
+
+  
+#EXTINF:-1 tvg-id="ext" tvg-name="TELECINCO" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="TDT",TELECINCO (ACE)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=154c6f876ddf1d9c87880eae0d0442335ec156bf
+  
+  
+  
+
+  
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="TDT",LA SEXTA
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/356.m3u8  
      
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="TDT",LA SEXTA
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1293910.m3u8 
+  
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="TDT",LA SEXTA
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=107592&extension=m3u8&play_token=SSCuLZHzsG
+             
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="TDT",LA SEXTA
+https://atres-live.atresmedia.com/f8cb04fbd9d286ca7116cf148885b7bef1cf53f3_ES_1794430878_1794459618/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8 
+
+  
+
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="TDT",LA SEXTA (VPN)
+http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/5625.m3u8 
+
+  
+#EXTINF:-1 tvg-id="ext" tvg-name="LA SEXTA" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="TDT",LA SEXTA (ACE)
+http://127.0.0.1:6878/ace/manifest.m3u8?id=44828a7580cd99fcb36245c327889c47f34b457f   
+
+
+  
+
+  
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ENERGY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="TDT",ENERGY
+http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/413.m3u8
+
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ENERGY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="TDT",ENERGY
+http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1293931.m3u8   
+    
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ENERGY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="TDT",ENERGY
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1975899&extension=m3u8&play_token=n8h1OMByD7     
+  
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ENERGY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="TDT",ENERGY (VPN)
+http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/5603.m3u8   
