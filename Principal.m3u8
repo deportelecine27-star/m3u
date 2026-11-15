@@ -148,7 +148,7 @@ http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=2078956&
 http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/25128.m3u8
               
 #EXTINF:-1 tvg-id="ext" tvg-name="Movistar+" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",LIGA HYPERMOTION (ACE)
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2c54a4def58f41fc0d2163450a63f12955b656aa 
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f645eb255ca1d5f5a3012b84d3edad73e36b2e49 
      
      
      
@@ -406,12 +406,6 @@ http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/5592.m3u8
      
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN",Dazn Eventos 1
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/30029.m3u8     
-
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN",Dazn Eventos 1
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1308298.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN",Dazn Eventos 1
-http://39j3jjd3.upfebdm.xyz:80/play/FK79ANJ5EH/X3xfv6udENyD/1308298.ts 
              
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN",Dazn Eventos 2
 http://5213b9f1d32fd6c567c09e04c29a2887.spadas.dabamen.lol:25461/live/Ksx5xIBZZL/966622961926/30030.m3u8     
