@@ -722,7 +722,8 @@ https://streamer.zapitv.com/betis/index.mpd
 https://cdn307.fractalmedia.es/live317/hls/cudtv/master.m3u8
 
 
-
+#EXTINF:-1 tvg-id="ext" tvg-name="NBA TV" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title= "DEPORTES",NBA TV (ACE)
+acestream://9821bfd262dd41a791b9cb5175314fa227dc139e
 
 
 
