@@ -148,7 +148,7 @@ http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=2078956&
 #EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D6_3F8_1_C00000_0_0_0.png" group-title="FUTBOL",LIGA HYPERMOTION (VPN)
 http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/25128.m3u8
               
-#EXTINF:-1 tvg-id="ext" tvg-name="Movistar+" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",LIGA HYPERMOTION (ACE)
+#EXTINF:-1 tvg-id="ext" tvg-name="LIGA HYPERMOTION" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",LIGA HYPERMOTION (ACE)
 acestream://f645eb255ca1d5f5a3012b84d3edad73e36b2e49 
      
      
