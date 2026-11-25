@@ -187,13 +187,14 @@ http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:A8:4F:12&stream=1777911&
 
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78B4_3EC_1_C00000_0_0_0.png" group-title="FUTBOL",M+ Liga de Campeones (VPN)
 http://neopneojh.top:8080/live/5041729235567191/h7z3irwyqrz4/57560.m3u8
-     
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Liga de Campeones (ACE)
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Liga de Campeones (ACE)
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Liga de Campeones (ACE)
 acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439 
-#EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Liga de Campeones (ACE)
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga de Campeones" tvg-logo="https://marchukan.com/wp-content/uploads/2018/02/ACE-logo.png" group-title="FUTBOL",M+ Liga de Campeones (ACE)
 acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
      
